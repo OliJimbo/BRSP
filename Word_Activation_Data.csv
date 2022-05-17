@@ -1,0 +1,1081 @@
+StartDate,EndDate,Status,Progress,Duration (in seconds),Finished,RecordedDate,ResponseId,DistributionChannel,UserLanguage,Q13,Q9,Q11,Q11_5_TEXT,1_Q8,2_Q8,3_Q8,4_Q8,5_Q8,7_Q8,8_Q8,9_Q8,10_Q8,11_Q8,12_Q8,13_Q8,14_Q8,15_Q8,16_Q8,17_Q8,18_Q8,19_Q8,20_Q8,21_Q8,22_Q8,23_Q8,24_Q8,25_Q8,26_Q8,27_Q8,28_Q8,29_Q8,30_Q8,31_Q8,32_Q8,33_Q8,34_Q8,35_Q8,36_Q8,37_Q8,38_Q8,39_Q8,40_Q8,41_Q8,42_Q8,43_Q8,44_Q8,45_Q8,46_Q8,47_Q8,48_Q8,49_Q8,50_Q8,51_Q8,52_Q8,53_Q8,54_Q8,1_Q3,2_Q3,3_Q3,4_Q3,5_Q3,6_Q3,7_Q3,8_Q3,9_Q3,10_Q3,11_Q3,12_Q3,13_Q3,14_Q3,15_Q3,16_Q3,17_Q3,18_Q3,19_Q3,20_Q3,21_Q3,22_Q3,23_Q3,24_Q3,25_Q3,26_Q3,27_Q3,28_Q3,29_Q3,30_Q3,31_Q3,32_Q3,33_Q3,34_Q3,35_Q3,36_Q3,37_Q3,38_Q3,39_Q3,40_Q3,41_Q3,42_Q3,43_Q3,44_Q3,45_Q3,46_Q3,47_Q3,48_Q3,49_Q3,50_Q3,51_Q3,52_Q3,53_Q3,54_Q3,1_Q7,2_Q7,3_Q7,4_Q7,5_Q7,6_Q7,7_Q7,8_Q7,9_Q7,10_Q7,11_Q7,12_Q7,13_Q7,14_Q7,15_Q7,16_Q7,17_Q7,18_Q7,19_Q7,20_Q7,21_Q7,22_Q7,23_Q7,24_Q7,25_Q7,26_Q7,27_Q7,28_Q7,29_Q7,30_Q7,31_Q7,32_Q7,33_Q7,34_Q7,35_Q7,36_Q7,37_Q7,38_Q7,39_Q7,40_Q7,41_Q7,42_Q7,43_Q7,44_Q7,45_Q7,46_Q7,47_Q7,48_Q7,49_Q7,50_Q7,51_Q7,52_Q7,53_Q7,54_Q7,1_Q9,2_Q9,3_Q9,4_Q9,5_Q9,6_Q9,7_Q9,8_Q9,9_Q9,10_Q9,11_Q9,12_Q9,13_Q9,14_Q9,15_Q9,16_Q9,17_Q9,18_Q9,19_Q9,20_Q9,21_Q9,22_Q9,23_Q9,24_Q9,25_Q9,26_Q9,27_Q9,28_Q9,29_Q9,30_Q9,31_Q9,32_Q9,33_Q9,34_Q9,35_Q9,36_Q9,37_Q9,38_Q9,39_Q9,40_Q9,41_Q9,42_Q9,43_Q9,44_Q9,45_Q9,46_Q9,47_Q9,48_Q9,49_Q9,50_Q9,51_Q9,52_Q9,53_Q9,54_Q9,Q11_1,Q11_2,Q11_3,SC0,Q11_46_TEXT - Topics
+Start Date,End Date,Response Type,Progress,Duration (in seconds),Finished,Recorded Date,Response ID,Distribution Channel,User Language,I have read and understood the participant information sheet and consent to participate:,What is your age group?,Which gender do you identify with? - Selected Choice,Which gender do you identify with? - prefer to self-describe - Text,"active - Men who have athletic or fit body types:
+
+ 
+
+[Field-1]","aggressive - Men who have athletic or fit body types:
+
+ 
+
+[Field-1]","arrogant - Men who have athletic or fit body types:
+
+ 
+
+[Field-1]","athletic - Men who have athletic or fit body types:
+
+ 
+
+[Field-1]","attractive - Men who have athletic or fit body types:
+
+ 
+
+[Field-1]","boring - Men who have athletic or fit body types:
+
+ 
+
+[Field-1]","busy - Men who have athletic or fit body types:
+
+ 
+
+[Field-1]","cocky - Men who have athletic or fit body types:
+
+ 
+
+[Field-1]","committed - Men who have athletic or fit body types:
+
+ 
+
+[Field-1]","competitive - Men who have athletic or fit body types:
+
+ 
+
+[Field-1]","confident - Men who have athletic or fit body types:
+
+ 
+
+[Field-1]","conscientious - Men who have athletic or fit body types:
+
+ 
+
+[Field-1]","consistent - Men who have athletic or fit body types:
+
+ 
+
+[Field-1]","controlled - Men who have athletic or fit body types:
+
+ 
+
+[Field-1]","dedicated - Men who have athletic or fit body types:
+
+ 
+
+[Field-1]","determined - Men who have athletic or fit body types:
+
+ 
+
+[Field-1]","disciplined - Men who have athletic or fit body types:
+
+ 
+
+[Field-1]","drinks alcohol - Men who have athletic or fit body types:
+
+ 
+
+[Field-1]","driven - Men who have athletic or fit body types:
+
+ 
+
+[Field-1]","eats healthily - Men who have athletic or fit body types:
+
+ 
+
+[Field-1]","energetic - Men who have athletic or fit body types:
+
+ 
+
+[Field-1]","enthusiastic - Men who have athletic or fit body types:
+
+ 
+
+[Field-1]","exercises regularly - Men who have athletic or fit body types:
+
+ 
+
+[Field-1]","extroverted - Men who have athletic or fit body types:
+
+ 
+
+[Field-1]","fit - Men who have athletic or fit body types:
+
+ 
+
+[Field-1]","focussed - Men who have athletic or fit body types:
+
+ 
+
+[Field-1]","friendly - Men who have athletic or fit body types:
+
+ 
+
+[Field-1]","fun - Men who have athletic or fit body types:
+
+ 
+
+[Field-1]","funny - Men who have athletic or fit body types:
+
+ 
+
+[Field-1]","goal directed - Men who have athletic or fit body types:
+
+ 
+
+[Field-1]","greedy - Men who have athletic or fit body types:
+
+ 
+
+[Field-1]","happy - Men who have athletic or fit body types:
+
+ 
+
+[Field-1]","health conscious - Men who have athletic or fit body types:
+
+ 
+
+[Field-1]","healthy - Men who have athletic or fit body types:
+
+ 
+
+[Field-1]","inactive - Men who have athletic or fit body types:
+
+ 
+
+[Field-1]","introvert - Men who have athletic or fit body types:
+
+ 
+
+[Field-1]","kind - Men who have athletic or fit body types:
+
+ 
+
+[Field-1]","lazy - Men who have athletic or fit body types:
+
+ 
+
+[Field-1]","loud - Men who have athletic or fit body types:
+
+ 
+
+[Field-1]","moody - Men who have athletic or fit body types:
+
+ 
+
+[Field-1]","motivated - Men who have athletic or fit body types:
+
+ 
+
+[Field-1]","obssessive - Men who have athletic or fit body types:
+
+ 
+
+[Field-1]","organised - Men who have athletic or fit body types:
+
+ 
+
+[Field-1]","rude - Men who have athletic or fit body types:
+
+ 
+
+[Field-1]","sedentary - Men who have athletic or fit body types:
+
+ 
+
+[Field-1]","serious - Men who have athletic or fit body types:
+
+ 
+
+[Field-1]","social - Men who have athletic or fit body types:
+
+ 
+
+[Field-1]","sporty - Men who have athletic or fit body types:
+
+ 
+
+[Field-1]","strict - Men who have athletic or fit body types:
+
+ 
+
+[Field-1]","strong - Men who have athletic or fit body types:
+
+ 
+
+[Field-1]","unhappy - Men who have athletic or fit body types:
+
+ 
+
+[Field-1]","unhealthy - Men who have athletic or fit body types:
+
+ 
+
+[Field-1]","vain - Men who have athletic or fit body types:
+
+ 
+
+[Field-1]","active - Men who have overweight or plus-sized body types:
+
+ 
+
+[Field-1]","aggressive - Men who have overweight or plus-sized body types:
+
+ 
+
+[Field-1]","arrogant - Men who have overweight or plus-sized body types:
+
+ 
+
+[Field-1]","athletic - Men who have overweight or plus-sized body types:
+
+ 
+
+[Field-1]","attractive - Men who have overweight or plus-sized body types:
+
+ 
+
+[Field-1]","aware - Men who have overweight or plus-sized body types:
+
+ 
+
+[Field-1]","Boring - Men who have overweight or plus-sized body types:
+
+ 
+
+[Field-1]","busy - Men who have overweight or plus-sized body types:
+
+ 
+
+[Field-1]","cocky - Men who have overweight or plus-sized body types:
+
+ 
+
+[Field-1]","committed - Men who have overweight or plus-sized body types:
+
+ 
+
+[Field-1]","competitive - Men who have overweight or plus-sized body types:
+
+ 
+
+[Field-1]","confident - Men who have overweight or plus-sized body types:
+
+ 
+
+[Field-1]","conscientious - Men who have overweight or plus-sized body types:
+
+ 
+
+[Field-1]","consistent - Men who have overweight or plus-sized body types:
+
+ 
+
+[Field-1]","controlled - Men who have overweight or plus-sized body types:
+
+ 
+
+[Field-1]","dedicated - Men who have overweight or plus-sized body types:
+
+ 
+
+[Field-1]","determined - Men who have overweight or plus-sized body types:
+
+ 
+
+[Field-1]","disciplined - Men who have overweight or plus-sized body types:
+
+ 
+
+[Field-1]","drinks alcohol - Men who have overweight or plus-sized body types:
+
+ 
+
+[Field-1]","driven - Men who have overweight or plus-sized body types:
+
+ 
+
+[Field-1]","eats healthily - Men who have overweight or plus-sized body types:
+
+ 
+
+[Field-1]","energetic - Men who have overweight or plus-sized body types:
+
+ 
+
+[Field-1]","enthusiastic - Men who have overweight or plus-sized body types:
+
+ 
+
+[Field-1]","exercises regularly - Men who have overweight or plus-sized body types:
+
+ 
+
+[Field-1]","extroverted - Men who have overweight or plus-sized body types:
+
+ 
+
+[Field-1]","fit - Men who have overweight or plus-sized body types:
+
+ 
+
+[Field-1]","focussed - Men who have overweight or plus-sized body types:
+
+ 
+
+[Field-1]","friendly - Men who have overweight or plus-sized body types:
+
+ 
+
+[Field-1]","fun - Men who have overweight or plus-sized body types:
+
+ 
+
+[Field-1]","funny - Men who have overweight or plus-sized body types:
+
+ 
+
+[Field-1]","goal directed - Men who have overweight or plus-sized body types:
+
+ 
+
+[Field-1]","greedy - Men who have overweight or plus-sized body types:
+
+ 
+
+[Field-1]","happy - Men who have overweight or plus-sized body types:
+
+ 
+
+[Field-1]","health conscious - Men who have overweight or plus-sized body types:
+
+ 
+
+[Field-1]","healthy - Men who have overweight or plus-sized body types:
+
+ 
+
+[Field-1]","inactive - Men who have overweight or plus-sized body types:
+
+ 
+
+[Field-1]","introvert - Men who have overweight or plus-sized body types:
+
+ 
+
+[Field-1]","kind - Men who have overweight or plus-sized body types:
+
+ 
+
+[Field-1]","lazy - Men who have overweight or plus-sized body types:
+
+ 
+
+[Field-1]","loud - Men who have overweight or plus-sized body types:
+
+ 
+
+[Field-1]","moody - Men who have overweight or plus-sized body types:
+
+ 
+
+[Field-1]","motivated - Men who have overweight or plus-sized body types:
+
+ 
+
+[Field-1]","obssessive - Men who have overweight or plus-sized body types:
+
+ 
+
+[Field-1]","organised - Men who have overweight or plus-sized body types:
+
+ 
+
+[Field-1]","rude - Men who have overweight or plus-sized body types:
+
+ 
+
+[Field-1]","sedentary - Men who have overweight or plus-sized body types:
+
+ 
+
+[Field-1]","serious - Men who have overweight or plus-sized body types:
+
+ 
+
+[Field-1]","social - Men who have overweight or plus-sized body types:
+
+ 
+
+[Field-1]","sporty - Men who have overweight or plus-sized body types:
+
+ 
+
+[Field-1]","strict - Men who have overweight or plus-sized body types:
+
+ 
+
+[Field-1]","strong - Men who have overweight or plus-sized body types:
+
+ 
+
+[Field-1]","unhappy - Men who have overweight or plus-sized body types:
+
+ 
+
+[Field-1]","unhealthy - Men who have overweight or plus-sized body types:
+
+ 
+
+[Field-1]","vain - Men who have overweight or plus-sized body types:
+
+ 
+
+[Field-1]","active - Women who have athletic or fit body types:
+
+ 
+
+[Field-1]","aggressive - Women who have athletic or fit body types:
+
+ 
+
+[Field-1]","arrogant - Women who have athletic or fit body types:
+
+ 
+
+[Field-1]","athletic - Women who have athletic or fit body types:
+
+ 
+
+[Field-1]","attractive - Women who have athletic or fit body types:
+
+ 
+
+[Field-1]","aware - Women who have athletic or fit body types:
+
+ 
+
+[Field-1]","Boring - Women who have athletic or fit body types:
+
+ 
+
+[Field-1]","busy - Women who have athletic or fit body types:
+
+ 
+
+[Field-1]","cocky - Women who have athletic or fit body types:
+
+ 
+
+[Field-1]","committed - Women who have athletic or fit body types:
+
+ 
+
+[Field-1]","competitive - Women who have athletic or fit body types:
+
+ 
+
+[Field-1]","confident - Women who have athletic or fit body types:
+
+ 
+
+[Field-1]","conscientious - Women who have athletic or fit body types:
+
+ 
+
+[Field-1]","consistent - Women who have athletic or fit body types:
+
+ 
+
+[Field-1]","controlled - Women who have athletic or fit body types:
+
+ 
+
+[Field-1]","dedicated - Women who have athletic or fit body types:
+
+ 
+
+[Field-1]","determined - Women who have athletic or fit body types:
+
+ 
+
+[Field-1]","disciplined - Women who have athletic or fit body types:
+
+ 
+
+[Field-1]","drinks alcohol - Women who have athletic or fit body types:
+
+ 
+
+[Field-1]","driven - Women who have athletic or fit body types:
+
+ 
+
+[Field-1]","eats healthily - Women who have athletic or fit body types:
+
+ 
+
+[Field-1]","energetic - Women who have athletic or fit body types:
+
+ 
+
+[Field-1]","enthusiastic - Women who have athletic or fit body types:
+
+ 
+
+[Field-1]","exercises regularly - Women who have athletic or fit body types:
+
+ 
+
+[Field-1]","extroverted - Women who have athletic or fit body types:
+
+ 
+
+[Field-1]","fit - Women who have athletic or fit body types:
+
+ 
+
+[Field-1]","focussed - Women who have athletic or fit body types:
+
+ 
+
+[Field-1]","friendly - Women who have athletic or fit body types:
+
+ 
+
+[Field-1]","fun - Women who have athletic or fit body types:
+
+ 
+
+[Field-1]","funny - Women who have athletic or fit body types:
+
+ 
+
+[Field-1]","goal directed - Women who have athletic or fit body types:
+
+ 
+
+[Field-1]","greedy - Women who have athletic or fit body types:
+
+ 
+
+[Field-1]","happy - Women who have athletic or fit body types:
+
+ 
+
+[Field-1]","health conscious - Women who have athletic or fit body types:
+
+ 
+
+[Field-1]","healthy - Women who have athletic or fit body types:
+
+ 
+
+[Field-1]","inactive - Women who have athletic or fit body types:
+
+ 
+
+[Field-1]","introvert - Women who have athletic or fit body types:
+
+ 
+
+[Field-1]","kind - Women who have athletic or fit body types:
+
+ 
+
+[Field-1]","lazy - Women who have athletic or fit body types:
+
+ 
+
+[Field-1]","loud - Women who have athletic or fit body types:
+
+ 
+
+[Field-1]","moody - Women who have athletic or fit body types:
+
+ 
+
+[Field-1]","motivated - Women who have athletic or fit body types:
+
+ 
+
+[Field-1]","obssessive - Women who have athletic or fit body types:
+
+ 
+
+[Field-1]","organised - Women who have athletic or fit body types:
+
+ 
+
+[Field-1]","rude - Women who have athletic or fit body types:
+
+ 
+
+[Field-1]","sedentary - Women who have athletic or fit body types:
+
+ 
+
+[Field-1]","serious - Women who have athletic or fit body types:
+
+ 
+
+[Field-1]","social - Women who have athletic or fit body types:
+
+ 
+
+[Field-1]","sporty - Women who have athletic or fit body types:
+
+ 
+
+[Field-1]","strict - Women who have athletic or fit body types:
+
+ 
+
+[Field-1]","strong - Women who have athletic or fit body types:
+
+ 
+
+[Field-1]","unhappy - Women who have athletic or fit body types:
+
+ 
+
+[Field-1]","unhealthy - Women who have athletic or fit body types:
+
+ 
+
+[Field-1]","vain - Women who have athletic or fit body types:
+
+ 
+
+[Field-1]","active - Women who have overweight or plus-sized body types:
+
+
+
+[Field-1]","aggressive - Women who have overweight or plus-sized body types:
+
+
+
+[Field-1]","arrogant - Women who have overweight or plus-sized body types:
+
+
+
+[Field-1]","athletic - Women who have overweight or plus-sized body types:
+
+
+
+[Field-1]","attractive - Women who have overweight or plus-sized body types:
+
+
+
+[Field-1]","aware - Women who have overweight or plus-sized body types:
+
+
+
+[Field-1]","Boring - Women who have overweight or plus-sized body types:
+
+
+
+[Field-1]","busy - Women who have overweight or plus-sized body types:
+
+
+
+[Field-1]","cocky - Women who have overweight or plus-sized body types:
+
+
+
+[Field-1]","committed - Women who have overweight or plus-sized body types:
+
+
+
+[Field-1]","competitive - Women who have overweight or plus-sized body types:
+
+
+
+[Field-1]","confident - Women who have overweight or plus-sized body types:
+
+
+
+[Field-1]","conscientious - Women who have overweight or plus-sized body types:
+
+
+
+[Field-1]","consistent - Women who have overweight or plus-sized body types:
+
+
+
+[Field-1]","controlled - Women who have overweight or plus-sized body types:
+
+
+
+[Field-1]","dedicated - Women who have overweight or plus-sized body types:
+
+
+
+[Field-1]","determined - Women who have overweight or plus-sized body types:
+
+
+
+[Field-1]","disciplined - Women who have overweight or plus-sized body types:
+
+
+
+[Field-1]","drinks alcohol - Women who have overweight or plus-sized body types:
+
+
+
+[Field-1]","driven - Women who have overweight or plus-sized body types:
+
+
+
+[Field-1]","eats healthily - Women who have overweight or plus-sized body types:
+
+
+
+[Field-1]","energetic - Women who have overweight or plus-sized body types:
+
+
+
+[Field-1]","enthusiastic - Women who have overweight or plus-sized body types:
+
+
+
+[Field-1]","exercises regularly - Women who have overweight or plus-sized body types:
+
+
+
+[Field-1]","extroverted - Women who have overweight or plus-sized body types:
+
+
+
+[Field-1]","fit - Women who have overweight or plus-sized body types:
+
+
+
+[Field-1]","focussed - Women who have overweight or plus-sized body types:
+
+
+
+[Field-1]","friendly - Women who have overweight or plus-sized body types:
+
+
+
+[Field-1]","fun - Women who have overweight or plus-sized body types:
+
+
+
+[Field-1]","funny - Women who have overweight or plus-sized body types:
+
+
+
+[Field-1]","goal directed - Women who have overweight or plus-sized body types:
+
+
+
+[Field-1]","greedy - Women who have overweight or plus-sized body types:
+
+
+
+[Field-1]","happy - Women who have overweight or plus-sized body types:
+
+
+
+[Field-1]","health conscious - Women who have overweight or plus-sized body types:
+
+
+
+[Field-1]","healthy - Women who have overweight or plus-sized body types:
+
+
+
+[Field-1]","inactive - Women who have overweight or plus-sized body types:
+
+
+
+[Field-1]","introvert - Women who have overweight or plus-sized body types:
+
+
+
+[Field-1]","kind - Women who have overweight or plus-sized body types:
+
+
+
+[Field-1]","lazy - Women who have overweight or plus-sized body types:
+
+
+
+[Field-1]","loud - Women who have overweight or plus-sized body types:
+
+
+
+[Field-1]","moody - Women who have overweight or plus-sized body types:
+
+
+
+[Field-1]","motivated - Women who have overweight or plus-sized body types:
+
+
+
+[Field-1]","obssessive - Women who have overweight or plus-sized body types:
+
+
+
+[Field-1]","organised - Women who have overweight or plus-sized body types:
+
+
+
+[Field-1]","rude - Women who have overweight or plus-sized body types:
+
+
+
+[Field-1]","sedentary - Women who have overweight or plus-sized body types:
+
+
+
+[Field-1]","serious - Women who have overweight or plus-sized body types:
+
+
+
+[Field-1]","social - Women who have overweight or plus-sized body types:
+
+
+
+[Field-1]","sporty - Women who have overweight or plus-sized body types:
+
+
+
+[Field-1]","strict - Women who have overweight or plus-sized body types:
+
+
+
+[Field-1]","strong - Women who have overweight or plus-sized body types:
+
+
+
+[Field-1]","unhappy - Women who have overweight or plus-sized body types:
+
+
+
+[Field-1]","unhealthy - Women who have overweight or plus-sized body types:
+
+
+
+[Field-1]","vain - Women who have overweight or plus-sized body types:
+
+
+
+[Field-1]","Thank you for completing the study.
+ 
+
+Please fill in the following form and save the link should you wish to withdraw from the study:
+
+
+https://mmu.eu.qualtrics.com/jfe/form/SV_2uHcr0D54j6qYNT - Day of the month you were born (e.g. 12):","Thank you for completing the study.
+ 
+
+Please fill in the following form and save the link should you wish to withdraw from the study:
+
+
+https://mmu.eu.qualtrics.com/jfe/form/SV_2uHcr0D54j6qYNT - Last two letters of your post code:","Thank you for completing the study.
+ 
+
+Please fill in the following form and save the link should you wish to withdraw from the study:
+
+
+https://mmu.eu.qualtrics.com/jfe/form/SV_2uHcr0D54j6qYNT - Last two numbers of your phone number:",Score,Q11_46_TEXT - Topics
+"{""ImportId"":""startDate"",""timeZone"":""Europe/London""}","{""ImportId"":""endDate"",""timeZone"":""Europe/London""}","{""ImportId"":""status""}","{""ImportId"":""progress""}","{""ImportId"":""duration""}","{""ImportId"":""finished""}","{""ImportId"":""recordedDate"",""timeZone"":""Europe/London""}","{""ImportId"":""_recordId""}","{""ImportId"":""distributionChannel""}","{""ImportId"":""userLanguage""}","{""ImportId"":""QID13""}","{""ImportId"":""QID15""}","{""ImportId"":""QID17""}","{""ImportId"":""QID17_46_TEXT""}","{""ImportId"":""1_QID8""}","{""ImportId"":""2_QID8""}","{""ImportId"":""3_QID8""}","{""ImportId"":""4_QID8""}","{""ImportId"":""5_QID8""}","{""ImportId"":""7_QID8""}","{""ImportId"":""8_QID8""}","{""ImportId"":""9_QID8""}","{""ImportId"":""10_QID8""}","{""ImportId"":""11_QID8""}","{""ImportId"":""12_QID8""}","{""ImportId"":""13_QID8""}","{""ImportId"":""14_QID8""}","{""ImportId"":""15_QID8""}","{""ImportId"":""16_QID8""}","{""ImportId"":""17_QID8""}","{""ImportId"":""18_QID8""}","{""ImportId"":""19_QID8""}","{""ImportId"":""20_QID8""}","{""ImportId"":""21_QID8""}","{""ImportId"":""22_QID8""}","{""ImportId"":""23_QID8""}","{""ImportId"":""24_QID8""}","{""ImportId"":""25_QID8""}","{""ImportId"":""26_QID8""}","{""ImportId"":""27_QID8""}","{""ImportId"":""28_QID8""}","{""ImportId"":""29_QID8""}","{""ImportId"":""30_QID8""}","{""ImportId"":""31_QID8""}","{""ImportId"":""32_QID8""}","{""ImportId"":""33_QID8""}","{""ImportId"":""34_QID8""}","{""ImportId"":""35_QID8""}","{""ImportId"":""36_QID8""}","{""ImportId"":""37_QID8""}","{""ImportId"":""38_QID8""}","{""ImportId"":""39_QID8""}","{""ImportId"":""40_QID8""}","{""ImportId"":""41_QID8""}","{""ImportId"":""42_QID8""}","{""ImportId"":""43_QID8""}","{""ImportId"":""44_QID8""}","{""ImportId"":""45_QID8""}","{""ImportId"":""46_QID8""}","{""ImportId"":""47_QID8""}","{""ImportId"":""48_QID8""}","{""ImportId"":""49_QID8""}","{""ImportId"":""50_QID8""}","{""ImportId"":""51_QID8""}","{""ImportId"":""52_QID8""}","{""ImportId"":""53_QID8""}","{""ImportId"":""54_QID8""}","{""ImportId"":""1_QID3""}","{""ImportId"":""2_QID3""}","{""ImportId"":""3_QID3""}","{""ImportId"":""4_QID3""}","{""ImportId"":""5_QID3""}","{""ImportId"":""6_QID3""}","{""ImportId"":""7_QID3""}","{""ImportId"":""8_QID3""}","{""ImportId"":""9_QID3""}","{""ImportId"":""10_QID3""}","{""ImportId"":""11_QID3""}","{""ImportId"":""12_QID3""}","{""ImportId"":""13_QID3""}","{""ImportId"":""14_QID3""}","{""ImportId"":""15_QID3""}","{""ImportId"":""16_QID3""}","{""ImportId"":""17_QID3""}","{""ImportId"":""18_QID3""}","{""ImportId"":""19_QID3""}","{""ImportId"":""20_QID3""}","{""ImportId"":""21_QID3""}","{""ImportId"":""22_QID3""}","{""ImportId"":""23_QID3""}","{""ImportId"":""24_QID3""}","{""ImportId"":""25_QID3""}","{""ImportId"":""26_QID3""}","{""ImportId"":""27_QID3""}","{""ImportId"":""28_QID3""}","{""ImportId"":""29_QID3""}","{""ImportId"":""30_QID3""}","{""ImportId"":""31_QID3""}","{""ImportId"":""32_QID3""}","{""ImportId"":""33_QID3""}","{""ImportId"":""34_QID3""}","{""ImportId"":""35_QID3""}","{""ImportId"":""36_QID3""}","{""ImportId"":""37_QID3""}","{""ImportId"":""38_QID3""}","{""ImportId"":""39_QID3""}","{""ImportId"":""40_QID3""}","{""ImportId"":""41_QID3""}","{""ImportId"":""42_QID3""}","{""ImportId"":""43_QID3""}","{""ImportId"":""44_QID3""}","{""ImportId"":""45_QID3""}","{""ImportId"":""46_QID3""}","{""ImportId"":""47_QID3""}","{""ImportId"":""48_QID3""}","{""ImportId"":""49_QID3""}","{""ImportId"":""50_QID3""}","{""ImportId"":""51_QID3""}","{""ImportId"":""52_QID3""}","{""ImportId"":""53_QID3""}","{""ImportId"":""54_QID3""}","{""ImportId"":""1_QID7""}","{""ImportId"":""2_QID7""}","{""ImportId"":""3_QID7""}","{""ImportId"":""4_QID7""}","{""ImportId"":""5_QID7""}","{""ImportId"":""6_QID7""}","{""ImportId"":""7_QID7""}","{""ImportId"":""8_QID7""}","{""ImportId"":""9_QID7""}","{""ImportId"":""10_QID7""}","{""ImportId"":""11_QID7""}","{""ImportId"":""12_QID7""}","{""ImportId"":""13_QID7""}","{""ImportId"":""14_QID7""}","{""ImportId"":""15_QID7""}","{""ImportId"":""16_QID7""}","{""ImportId"":""17_QID7""}","{""ImportId"":""18_QID7""}","{""ImportId"":""19_QID7""}","{""ImportId"":""20_QID7""}","{""ImportId"":""21_QID7""}","{""ImportId"":""22_QID7""}","{""ImportId"":""23_QID7""}","{""ImportId"":""24_QID7""}","{""ImportId"":""25_QID7""}","{""ImportId"":""26_QID7""}","{""ImportId"":""27_QID7""}","{""ImportId"":""28_QID7""}","{""ImportId"":""29_QID7""}","{""ImportId"":""30_QID7""}","{""ImportId"":""31_QID7""}","{""ImportId"":""32_QID7""}","{""ImportId"":""33_QID7""}","{""ImportId"":""34_QID7""}","{""ImportId"":""35_QID7""}","{""ImportId"":""36_QID7""}","{""ImportId"":""37_QID7""}","{""ImportId"":""38_QID7""}","{""ImportId"":""39_QID7""}","{""ImportId"":""40_QID7""}","{""ImportId"":""41_QID7""}","{""ImportId"":""42_QID7""}","{""ImportId"":""43_QID7""}","{""ImportId"":""44_QID7""}","{""ImportId"":""45_QID7""}","{""ImportId"":""46_QID7""}","{""ImportId"":""47_QID7""}","{""ImportId"":""48_QID7""}","{""ImportId"":""49_QID7""}","{""ImportId"":""50_QID7""}","{""ImportId"":""51_QID7""}","{""ImportId"":""52_QID7""}","{""ImportId"":""53_QID7""}","{""ImportId"":""54_QID7""}","{""ImportId"":""1_QID9""}","{""ImportId"":""2_QID9""}","{""ImportId"":""3_QID9""}","{""ImportId"":""4_QID9""}","{""ImportId"":""5_QID9""}","{""ImportId"":""6_QID9""}","{""ImportId"":""7_QID9""}","{""ImportId"":""8_QID9""}","{""ImportId"":""9_QID9""}","{""ImportId"":""10_QID9""}","{""ImportId"":""11_QID9""}","{""ImportId"":""12_QID9""}","{""ImportId"":""13_QID9""}","{""ImportId"":""14_QID9""}","{""ImportId"":""15_QID9""}","{""ImportId"":""16_QID9""}","{""ImportId"":""17_QID9""}","{""ImportId"":""18_QID9""}","{""ImportId"":""19_QID9""}","{""ImportId"":""20_QID9""}","{""ImportId"":""21_QID9""}","{""ImportId"":""22_QID9""}","{""ImportId"":""23_QID9""}","{""ImportId"":""24_QID9""}","{""ImportId"":""25_QID9""}","{""ImportId"":""26_QID9""}","{""ImportId"":""27_QID9""}","{""ImportId"":""28_QID9""}","{""ImportId"":""29_QID9""}","{""ImportId"":""30_QID9""}","{""ImportId"":""31_QID9""}","{""ImportId"":""32_QID9""}","{""ImportId"":""33_QID9""}","{""ImportId"":""34_QID9""}","{""ImportId"":""35_QID9""}","{""ImportId"":""36_QID9""}","{""ImportId"":""37_QID9""}","{""ImportId"":""38_QID9""}","{""ImportId"":""39_QID9""}","{""ImportId"":""40_QID9""}","{""ImportId"":""41_QID9""}","{""ImportId"":""42_QID9""}","{""ImportId"":""43_QID9""}","{""ImportId"":""44_QID9""}","{""ImportId"":""45_QID9""}","{""ImportId"":""46_QID9""}","{""ImportId"":""47_QID9""}","{""ImportId"":""48_QID9""}","{""ImportId"":""49_QID9""}","{""ImportId"":""50_QID9""}","{""ImportId"":""51_QID9""}","{""ImportId"":""52_QID9""}","{""ImportId"":""53_QID9""}","{""ImportId"":""54_QID9""}","{""ImportId"":""QID11_1""}","{""ImportId"":""QID11_2""}","{""ImportId"":""QID11_3""}","{""ImportId"":""SC_ahCnggWDM79DG0B""}","{""ImportId"":""QID17_46_TEXT_d7aa31bee0d94a5b814b31fcTopics""}"
+2019-01-07 16:58:02,2019-01-07 17:01:26,0,88,204,0,2019-01-14 17:01:31,R_3n6oVdowZ6qS1nk,anonymous,EN,1,,,,6,6,6,4,5,5,6,4,6,6,4,5,4,4,4,3,4,3,4,6,3,3,3,6,6,4,4,4,3,4,4,3,7,5,3,4,4,4,4,5,3,3,5,4,5,1,5,6,5,6,5,4,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,235,
+2019-01-16 14:22:10,2019-01-16 14:26:23,0,100,253,1,2019-01-16 14:26:24,R_1eLwqlEbeartWAb,anonymous,EN,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,1,1,2,4,4,1,2,1,2,1,4,4,2,4,2,4,2,1,3,2,4,1,2,4,2,2,7,6,7,2,1,4,5,2,3,1,7,2,1,3,4,4,4,4,4,4,4,2,4,6,1,5,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,05,ER,69,163,
+2019-02-18 16:52:21,2019-02-18 16:57:08,0,100,286,1,2019-02-18 16:57:08,R_5aurJ5L8RBXUA5b,anonymous,EN,1,2,2,,7,5,5,7,5,4,5,5,5,5,5,4,4,5,5,5,5,4,5,5,5,5,7,5,6,4,3,3,3,5,3,4,6,6,1,3,3,2,3,3,5,5,5,5,1,4,4,6,3,5,4,2,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,235,
+2019-02-18 17:00:16,2019-02-18 17:02:32,0,100,136,1,2019-02-18 17:02:33,R_2uPXP3inHScIcoS,anonymous,EN,1,4,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,4,4,3,4,4,4,4,4,4,4,4,4,4,4,4,4,4,5,4,3,4,4,3,4,3,4,4,4,4,4,5,4,3,3,3,4,4,4,4,4,4,4,4,4,3,4,4,3,4,4,4,5,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18,PN,70,208,
+2019-02-18 17:12:47,2019-02-18 17:17:42,0,100,295,1,2019-02-18 17:17:43,R_2TMieQBUNcjcAXn,anonymous,EN,1,2,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,1,1,7,5,4,1,4,3,7,6,5,5,5,7,7,4,5,4,4,4,7,4,7,4,7,4,4,4,1,6,4,4,6,7,1,4,4,1,4,1,6,2,4,1,1,1,6,7,4,6,1,1,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,9,dg,36,225,
+2019-02-18 18:52:24,2019-02-18 18:59:12,0,100,408,1,2019-02-18 18:59:13,R_3kke3UeDAtjnW6w,anonymous,EN,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,4,3,3,5,5,4,4,4,4,4,5,4,4,4,4,3,4,4,4,3,3,4,2,4,3,4,5,5,5,4,5,5,3,3,5,4,5,5,4,3,4,4,4,4,4,4,5,3,3,4,4,5,3,1,HA,57,214,
+2019-02-18 20:06:51,2019-02-18 20:11:21,0,100,269,1,2019-02-18 20:11:21,R_2BkXikBjzfOSWTc,anonymous,EN,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,4,2,4,5,4,4,4,4,5,4,3,5,4,4,5,4,4,4,4,5,4,4,5,3,4,4,4,5,4,4,5,5,5,5,4,4,6,4,5,4,4,4,4,5,4,4,4,4,4,4,3,4,4,4,PR,32,226,
+2019-02-18 20:09:50,2019-02-18 20:13:36,0,100,225,1,2019-02-18 20:13:36,R_24qrVSCGm8RW4kK,anonymous,EN,1,3,1,,4,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,3,1,1,3,1,4,1,1,1,1,1,1,1,3,4,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,4,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,72,
+2019-02-18 21:08:47,2019-02-18 21:13:31,0,100,284,1,2019-02-18 21:13:31,R_3HtfqgpTPCQwFpw,anonymous,EN,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,4,4,2,4,6,4,1,4,3,2,4,5,2,4,3,7,2,3,6,2,4,2,1,4,2,2,4,4,4,2,5,4,1,1,6,4,3,6,4,3,2,1,3,4,4,1,4,2,3,4,4,6,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,09,DD,32,182,
+2019-02-18 22:24:35,2019-02-18 22:35:27,0,100,652,1,2019-02-18 22:35:27,R_3enr9G2QXsciVyz,anonymous,EN,1,3,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,1,4,7,4,5,5,4,4,6,5,5,5,4,6,5,4,5,3,5,6,6,2,6,2,7,5,2,4,1,5,1,4,5,5,2,2,2,5,1,4,6,6,4,1,2,2,2,6,6,5,1,2,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,11,EP,82,217,
+2019-02-18 22:45:07,2019-02-18 22:48:34,0,100,206,1,2019-02-18 22:48:35,R_vqRGvG63G2KetIl,anonymous,EN,1,2,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,3,4,7,5,6,4,6,5,7,7,7,3,5,6,7,6,7,2,6,7,6,4,7,5,6,6,4,4,2,6,2,4,7,6,1,3,3,2,4,3,6,6,6,3,1,7,3,7,7,6,3,1,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,29,bp,90,262,
+2019-02-19 09:25:10,2019-02-19 09:31:05,0,100,355,1,2019-02-19 09:31:06,R_3ef23H2aIw0swgP,anonymous,EN,1,2,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,3,2,2,3,3,3,2,2,3,2,3,3,4,2,3,2,2,4,2,2,2,4,2,5,1,2,5,4,4,2,5,3,1,2,6,4,4,5,4,3,2,2,2,3,6,3,4,1,3,5,4,5,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,164,
+2019-02-19 09:28:57,2019-02-19 09:32:37,0,100,219,1,2019-02-19 09:32:37,R_2QYz7ykXCLGnZUe,anonymous,EN,1,2,1,,6,4,5,6,6,2,3,5,6,6,5,4,6,6,6,6,5,4,6,5,4,5,6,4,4,6,4,1,4,6,3,4,5,5,2,4,1,2,4,4,6,5,5,4,2,5,4,7,5,6,3,2,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,Ah,78,238,
+2019-02-19 10:40:19,2019-02-19 10:43:28,0,100,189,1,2019-02-19 10:43:29,R_3kv5np6qSl2aeXS,anonymous,EN,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,4,4,4,4,4,4,4,4,4,4,5,4,4,4,4,4,4,4,3,4,5,4,4,3,4,4,7,4,4,3,4,4,4,4,4,5,7,4,4,4,4,5,3,3,4,4,5,4,3,4,4,4,2,4,PR,32,219,
+2019-02-19 11:00:58,2019-02-19 11:02:15,0,100,76,1,2019-02-19 11:02:15,R_8puNEA5bZFFi2UF,anonymous,EN,1,1,2,,4,3,4,3,5,5,6,3,5,4,4,4,4,6,5,4,4,5,2,4,2,1,3,4,4,2,5,4,3,4,3,4,2,2,5,2,2,3,5,4,2,3,2,2,4,4,5,3,4,3,3,2,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,02,JN,95,188,
+2019-02-19 11:56:21,2019-02-19 12:00:53,0,100,272,1,2019-02-19 12:00:54,R_2CK9vJUOdE6iVvj,anonymous,EN,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,2,1,1,4,2,1,3,1,3,3,3,3,3,1,3,1,2,7,1,2,2,5,1,3,1,2,7,6,6,1,2,5,1,2,6,5,7,5,2,2,5,1,2,1,7,3,5,1,2,1,6,7,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,22,2,04,162,
+2019-02-19 12:42:11,2019-02-19 12:44:09,0,100,118,1,2019-02-19 12:44:10,R_vjdf3DlhnytQ4Sd,anonymous,EN,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,4,4,1,4,5,4,2,4,7,4,4,4,7,3,7,7,7,2,4,7,4,4,7,7,5,4,6,4,2,7,4,7,7,4,1,4,4,4,4,1,7,4,4,4,4,5,4,7,4,6,3,1,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,29,ay,54,241,
+2019-02-19 15:26:36,2019-02-19 15:30:49,0,100,252,1,2019-02-19 15:30:49,R_1nOb9IQoGyVDCnP,anonymous,EN,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,3,3,3,5,5,2,4,5,4,3,5,4,5,3,4,4,3,6,5,3,5,5,2,5,3,4,6,6,6,4,5,6,3,3,3,3,5,5,6,3,3,3,6,3,4,4,6,3,3,5,3,5,3,03,HW,96,221,
+2019-02-19 17:03:13,2019-02-19 17:06:01,0,100,168,1,2019-02-19 17:06:01,R_9oGwai4hetm1aLv,anonymous,EN,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,2,3,7,2,4,6,6,3,7,2,5,5,7,2,7,7,4,5,5,4,2,2,7,4,7,5,4,3,4,6,1,5,4,7,1,4,3,1,4,2,7,4,5,2,3,2,6,7,5,5,7,5,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,27,Sh,12,232,
+2019-02-19 20:10:38,2019-02-19 20:13:20,0,100,161,1,2019-02-19 20:13:20,R_1I3PvJ0KQeCiifI,anonymous,EN,1,1,1,,6,4,4,7,5,4,4,4,7,6,5,3,6,3,6,5,4,2,5,6,6,6,5,5,5,6,4,4,4,6,3,4,5,6,2,2,3,4,5,3,5,5,5,3,4,3,4,7,5,6,3,2,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,23,HJ,52,241,
+2019-02-20 11:01:09,2019-02-20 11:03:59,0,100,170,1,2019-02-20 11:04:00,R_1inA4R6SxK20CjH,anonymous,EN,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,4,4,2,4,4,4,4,3,4,5,3,4,4,4,4,4,4,4,4,2,3,5,2,5,2,4,4,5,5,4,5,4,3,3,5,5,4,3,5,5,4,4,4,4,4,4,3,3,4,4,4,4,3,21,AU,40,207,
+2019-02-20 15:33:28,2019-02-20 15:37:11,0,100,223,1,2019-02-20 15:37:12,R_3jUHJFnUONH5pej,anonymous,EN,1,6,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,5,4,3,5,5,4,4,4,4,4,5,4,4,4,4,4,4,5,4,4,4,5,3,4,4,4,5,5,6,4,4,6,4,4,4,4,5,4,6,4,3,3,4,4,4,6,5,3,4,6,5,4,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,28,WD,77,232,
+2019-02-20 18:02:12,2019-02-20 18:05:42,0,100,209,1,2019-02-20 18:05:42,R_2BheAJrSA2QpwlD,anonymous,EN,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,4,4,1,2,3,4,4,5,4,4,5,2,1,2,4,1,4,6,2,1,1,4,1,4,1,1,4,4,4,1,4,2,1,1,7,4,4,7,5,4,1,4,3,4,7,4,4,1,4,4,4,7,3,,,,178,
+2019-02-21 11:09:34,2019-02-21 11:13:35,0,100,240,1,2019-02-21 11:13:35,R_r2PZLulan4Gacvv,anonymous,EN,1,5,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,4,3,3,4,4,1,1,3,3,3,3,1,1,3,3,3,3,5,3,2,3,4,3,4,2,3,4,4,4,3,5,4,2,3,5,5,1,4,1,4,3,1,4,4,6,4,3,3,3,5,5,6,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,177,
+2019-02-21 11:20:47,2019-02-21 11:24:22,0,100,214,1,2019-02-21 11:24:22,R_2BbcTHyD0rEGsGh,anonymous,EN,1,,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,1,1,5,1,1,3,3,5,5,5,5,2,3,1,5,5,5,3,1,5,6,5,5,1,7,3,1,1,1,3,4,5,7,5,1,1,1,1,3,1,5,4,1,1,2,3,1,5,1,5,4,2,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,EH,74,172,
+2019-02-21 12:11:54,2019-02-21 12:17:15,0,100,321,1,2019-02-21 12:17:16,R_1mPGCBlGj0HC5Y8,anonymous,EN,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,3,2,1,4,5,4,3,4,4,4,5,4,4,3,4,1,4,2,4,3,4,5,2,5,2,4,6,5,6,4,5,3,4,4,3,3,5,5,5,4,4,4,1,4,3,3,6,2,1,4,6,5,4,03,EZ,32,200,
+2019-02-21 12:33:51,2019-02-21 12:38:04,0,100,252,1,2019-02-21 12:38:05,R_32Y17mBrU0Si05s,anonymous,EN,1,4,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,4,4,3,4,3,4,4,4,4,5,4,4,4,4,4,4,5,5,4,3,4,4,3,4,4,4,4,3,4,5,4,4,4,5,4,3,4,4,4,4,5,5,4,5,4,3,5,5,4,3,4,4,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,219,
+2019-02-21 17:57:11,2019-02-21 18:01:55,0,100,283,1,2019-02-21 18:01:55,R_2dACirVZB2kLIcl,anonymous,EN,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,1,1,2,4,2,1,3,1,4,1,3,1,2,3,2,3,1,5,1,2,1,1,2,1,1,2,2,5,1,1,5,1,3,4,6,1,4,5,1,1,2,1,4,1,2,2,3,2,2,2,4,4,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,25,LS,80,124,
+2019-02-21 18:27:36,2019-02-21 18:29:57,0,100,140,1,2019-02-21 18:29:57,R_C8khTy1iXoimrUR,anonymous,EN,1,1,1,,6,2,2,5,6,2,4,1,6,4,7,2,4,4,5,6,4,5,5,7,5,7,6,3,7,5,6,7,7,7,1,7,3,7,3,3,4,2,5,2,6,1,6,2,5,2,6,4,2,7,1,2,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,09,ay,97,230,
+2019-02-22 14:21:30,2019-02-22 14:26:00,0,100,270,1,2019-02-22 14:26:01,R_1hXtyDWTOfLfazm,anonymous,EN,1,1,1,,5,2,3,5,4,5,4,5,7,6,5,5,6,4,6,7,4,1,5,4,6,4,7,2,2,7,2,5,2,7,3,2,5,4,3,5,2,1,3,3,6,2,3,4,4,3,7,7,5,5,2,3,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,08,UF,87,223,
+2019-02-24 19:23:44,2019-02-24 19:27:11,0,100,206,1,2019-02-24 19:27:12,R_1mWw3EOhzKJXGRw,anonymous,EN,1,2,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,216,
+2019-02-25 12:28:11,2019-02-25 12:30:13,0,100,121,1,2019-02-25 12:30:13,R_2ta4d0FLVXvyXG8,anonymous,EN,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,2,4,3,4,2,4,3,4,3,3,5,3,4,5,3,3,3,3,6,2,3,5,1,3,6,5,5,5,3,4,3,4,5,6,3,4,5,3,3,6,2,2,2,4,4,5,3,3,2,5,4,4,5,04,pu,03,199,
+2019-02-26 09:05:18,2019-02-26 09:07:36,0,100,137,1,2019-02-26 09:07:36,R_1JKHXCvn4XLcgfN,anonymous,EN,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,2,1,1,1,2,2,2,3,1,6,1,2,2,2,2,1,2,7,1,1,2,2,1,1,1,1,6,6,6,1,2,2,4,2,6,7,6,6,4,6,1,5,1,1,6,2,3,1,2,1,6,5,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,06,NN,34,151,
+2019-02-26 09:08:04,2019-02-26 09:14:11,0,100,366,1,2019-02-26 09:14:11,R_1jDurVNKYswHcrz,anonymous,EN,1,3,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,1,1,4,5,4,4,3,1,2,4,3,4,4,2,3,3,3,4,4,3,2,5,3,5,3,4,6,5,6,4,2,4,2,3,6,3,5,6,6,3,3,2,4,1,6,3,6,3,2,5,5,5,1,26,LQ,59,193,
+2019-02-26 09:21:00,2019-02-26 09:26:43,0,100,342,1,2019-02-26 09:26:43,R_2VgxhkTxs8Azjap,anonymous,EN,1,2,2,,6,4,6,7,6,2,4,5,6,6,5,4,1,5,6,7,5,3,6,7,7,3,7,4,7,7,4,4,4,5,1,4,6,6,2,4,1,2,5,1,5,5,4,4,1,5,4,7,5,4,4,1,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,26,69,240,
+2019-02-26 09:25:28,2019-02-26 09:30:43,0,100,314,1,2019-02-26 09:30:44,R_1rk5o0dkR7rbERh,anonymous,EN,1,1,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,1,2,7,7,3,4,4,1,7,7,7,5,7,7,7,7,7,4,7,7,7,1,7,7,7,7,1,1,1,7,2,5,7,7,2,1,1,1,1,1,7,6,1,1,1,1,5,7,1,7,4,1,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,04,TR,34,237,
+2019-02-26 09:35:24,2019-02-26 09:38:12,0,100,168,1,2019-02-26 09:38:13,R_1q8lm1gyH1GVEGR,anonymous,EN,1,3,2,,6,6,6,7,1,7,4,6,4,6,4,4,4,6,4,6,5,4,5,5,4,5,7,5,6,5,2,2,1,5,5,1,5,4,2,3,2,2,5,6,5,5,5,4,2,4,4,6,5,5,6,4,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19,LQ,11,238,
+2019-02-26 11:04:03,2019-02-26 11:07:30,0,100,207,1,2019-02-26 11:07:31,R_3HBNaTN2nheQjrS,anonymous,EN,1,3,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,1,1,7,4,1,1,1,1,4,1,4,3,1,3,6,4,5,1,5,1,6,1,6,1,7,3,4,1,1,3,1,4,5,4,1,1,1,1,4,1,6,3,1,1,2,1,1,5,1,6,1,2,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,148,
+2019-02-26 11:57:47,2019-02-26 11:59:34,0,100,107,1,2019-02-26 11:59:35,R_pbAazZzSsdQbBqV,anonymous,EN,1,2,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,1,4,4,4,5,4,4,4,4,4,4,4,4,1,1,4,4,4,4,4,4,4,1,4,4,4,4,4,4,5,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,1,4,4,4,,,,203,
+2019-02-26 13:26:32,2019-02-26 13:34:23,0,100,470,1,2019-02-26 13:34:23,R_3ksNkhWLFDKO5oz,anonymous,EN,1,4,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,2,2,2,3,3,2,3,3,2,2,2,2,3,2,2,2,2,6,2,2,2,5,2,5,2,2,6,6,6,2,5,5,3,3,5,3,5,5,6,2,2,2,2,2,6,2,6,3,2,5,3,5,2,16,SU,92,173,
+2019-02-26 17:41:25,2019-02-26 17:44:13,0,100,168,1,2019-02-26 17:44:14,R_27CIucJj8Cq0lnX,anonymous,EN,1,4,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,2,2,6,5,6,2,1,1,6,6,6,6,6,6,1,6,6,1,6,6,6,6,6,6,6,6,6,6,6,6,2,6,6,6,2,2,6,1,2,1,6,2,6,1,2,1,6,6,6,6,2,1,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,01,AT,71,234,
+2019-02-26 17:56:06,2019-02-26 18:01:18,0,100,311,1,2019-02-26 18:01:19,R_25MDRAx4WQvJYD2,anonymous,EN,1,3,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,4,4,1,2,2,4,2,3,4,4,4,4,3,3,4,2,3,7,3,1,2,1,2,4,2,3,6,6,4,4,6,6,1,1,6,4,3,2,2,4,3,2,3,3,6,3,5,1,4,4,4,2,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,176,
+2019-02-26 20:06:38,2019-02-26 20:10:14,0,100,215,1,2019-02-26 20:10:14,R_1iaPKxxXyQFbunq,anonymous,EN,1,1,1,,7,7,6,7,7,7,5,6,7,7,6,5,7,4,6,7,6,1,6,6,7,6,7,6,7,6,3,5,4,7,6,5,7,7,1,1,3,1,7,5,6,6,5,5,2,5,5,6,6,6,2,1,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,02,JG,29,282,
+2019-02-26 20:36:58,2019-02-26 20:43:20,0,100,382,1,2019-02-26 20:43:21,R_DSm1u7RE8glsafD,anonymous,EN,1,4,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,4,3,2,2,4,3,3,3,2,2,2,2,2,3,3,3,2,5,2,1,1,2,1,4,3,3,3,5,5,2,4,5,1,1,6,4,5,5,5,4,3,3,3,4,6,4,5,3,3,4,3,7,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,hs,78,173,
+2019-02-26 21:06:10,2019-02-26 21:09:33,0,100,202,1,2019-02-26 21:09:34,R_1GPRpPAHSSyaWaB,anonymous,EN,1,2,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,5,1,1,2,3,4,4,4,4,2,2,1,4,3,2,3,1,4,3,3,1,5,2,5,2,4,3,6,5,3,5,6,2,1,5,1,3,4,7,1,2,3,3,5,5,4,6,1,2,4,1,6,3,,,,174,
+2019-02-26 22:23:30,2019-02-26 22:27:57,0,100,266,1,2019-02-26 22:27:57,R_AyvxrRXguUA0729,anonymous,EN,1,6,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,3,3,4,6,5,2,4,2,3,6,5,3,4,4,5,4,5,3,4,6,6,5,6,5,7,4,4,4,1,5,2,5,4,6,1,2,4,2,2,2,6,2,5,2,1,3,5,7,2,5,2,1,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,01,PG,71,208,
+2019-02-27 08:10:56,2019-02-27 08:15:04,0,100,247,1,2019-02-27 08:15:04,R_25svDXBJab8WGub,anonymous,EN,1,1,1,,6,4,6,6,6,2,5,7,2,7,7,7,7,5,7,7,6,3,6,6,6,4,7,6,6,6,3,3,3,7,4,6,6,6,1,1,3,1,6,2,7,6,6,5,4,7,6,6,5,7,1,1,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,267,
+2019-02-27 09:42:14,2019-02-27 09:45:29,0,100,195,1,2019-02-27 09:45:29,R_1hJPhjJR9IUl5w9,anonymous,EN,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,3,4,3,4,5,4,3,4,3,3,5,5,4,3,3,4,3,4,2,3,3,4,3,4,3,3,5,4,4,3,5,4,3,3,3,4,5,5,4,4,3,4,4,4,3,5,4,2,4,4,4,5,4,18,HG,21,201,
+2019-02-27 10:36:28,2019-02-27 10:39:33,0,100,184,1,2019-02-27 10:39:34,R_1E1cYKP05GYKawo,anonymous,EN,1,2,,,7,1,1,7,7,1,1,1,5,1,1,1,1,1,5,6,7,1,5,7,7,1,7,1,7,5,1,1,1,5,1,1,7,7,1,1,1,1,1,1,6,6,1,1,1,1,5,7,1,7,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,164,
+2019-02-27 12:34:14,2019-02-27 12:38:07,0,100,232,1,2019-02-27 12:38:07,R_pa9xBvggSJLW29H,anonymous,EN,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,1,3,5,5,1,4,4,1,6,4,6,1,5,1,5,6,6,1,6,7,7,6,7,4,5,5,1,4,4,5,1,1,6,5,1,1,1,1,1,1,6,4,4,1,1,6,6,7,4,6,1,1,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13,YA,81,203,
+2019-02-27 17:44:05,2019-02-27 17:50:15,0,100,369,1,2019-02-27 17:50:15,R_zTLyhoJVMxOVyWl,anonymous,EN,1,3,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,4,4,3,3,5,4,4,2,3,3,2,3,3,3,3,3,3,4,3,2,3,4,2,3,2,3,4,4,4,3,4,3,2,2,5,5,4,5,4,4,3,3,3,4,6,4,4,3,2,3,5,6,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,05,CK,59,184,
+2019-02-21 11:32:05,2019-02-21 11:33:09,0,80,63,0,2019-02-28 11:33:11,R_Opxbr0Hga6nv4tj,anonymous,EN,1,2,2,,,,,,,,4,3,,,5,,,,,,5,,,,5,4,,4,,5,,4,4,,,,,,,,,,,4,5,4,,,4,4,,5,4,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,79,
+2019-02-28 16:21:35,2019-02-28 16:24:05,0,100,150,1,2019-02-28 16:24:06,R_1gNDIteGMTHkIW0,anonymous,EN,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,5,3,4,4,4,2,4,6,5,6,6,3,3,4,4,6,3,7,4,6,5,6,3,7,5,3,7,6,5,5,4,6,5,4,3,1,5,5,7,6,4,2,3,5,4,1,7,6,2,5,2,5,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,17,us,10,241,
+2019-02-28 17:34:37,2019-02-28 17:42:09,0,100,451,1,2019-02-28 17:42:09,R_21yWm7Okfw1EIYZ,anonymous,EN,1,1,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,1,1,4,5,6,1,6,1,5,5,7,6,6,4,4,5,4,4,5,4,4,6,4,3,4,4,6,6,6,7,1,6,5,4,2,5,6,1,1,1,7,1,5,1,2,1,7,4,1,7,2,2,1,03,SQ,11,211,
+2019-02-28 17:43:24,2019-02-28 17:47:57,0,100,273,1,2019-02-28 17:47:59,R_2rr5VIwbW23Rt6M,anonymous,EN,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,2,2,2,3,3,2,2,2,3,2,3,2,2,2,2,2,2,5,3,3,2,5,3,5,2,2,7,5,5,2,4,5,1,2,5,2,5,5,5,2,2,2,2,2,3,2,5,2,2,2,2,3,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,05,Sb,42,156,
+2019-02-28 20:26:12,2019-02-28 20:28:35,0,100,142,1,2019-02-28 20:28:36,R_erMkFsm7LZ6ccHD,anonymous,EN,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,4,6,5,6,4,6,5,5,6,5,6,4,4,5,5,6,6,4,5,6,7,7,7,6,6,4,4,4,4,5,5,4,7,4,2,4,6,2,4,5,7,7,6,3,6,6,6,5,4,5,4,4,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10,ps,90,276,
+2019-03-01 00:46:09,2019-03-01 00:49:57,0,100,227,1,2019-03-01 00:49:58,R_1f15hRhgpjxY8jX,anonymous,EN,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,2,3,2,4,5,1,2,4,3,4,5,3,3,2,2,3,2,6,4,1,2,5,1,5,2,3,5,5,5,3,5,5,2,2,5,3,5,5,4,3,2,2,2,2,5,3,6,2,1,5,3,6,5,16,gf,24,182,
+2019-03-01 10:56:14,2019-03-01 10:58:44,0,100,149,1,2019-03-01 10:58:45,R_31saU9Kn04Iun5U,anonymous,EN,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,1,1,6,7,6,1,3,1,7,5,6,6,3,6,7,6,5,1,7,6,6,6,5,5,7,7,7,7,7,6,1,7,7,6,1,3,7,1,3,1,7,2,7,1,4,6,6,6,1,6,1,1,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,246,
+2019-03-01 11:11:59,2019-03-01 11:17:08,0,100,308,1,2019-03-01 11:17:09,R_40Z2JaEaJRaVRxn,anonymous,EN,1,1,1,,7,5,3,7,6,4,5,5,4,7,7,3,5,7,3,7,5,2,6,2,7,5,7,5,7,7,5,5,4,6,1,6,7,7,1,3,5,1,4,5,7,4,4,1,1,3,6,7,5,4,2,1,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,29,PS,72,246,
+2019-03-01 11:21:49,2019-03-01 11:24:44,0,100,174,1,2019-03-01 11:24:44,R_1eJF1ZzUMwZpEuO,anonymous,EN,1,1,1,,5,5,3,6,5,3,4,5,5,6,5,3,5,4,5,5,4,3,5,6,4,5,6,4,5,5,5,4,5,6,4,5,5,5,3,4,4,3,3,5,5,3,5,3,3,5,5,5,4,5,4,5,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,27,HU,18,239,
+2019-03-01 13:59:00,2019-03-01 14:02:19,0,100,199,1,2019-03-01 14:02:20,R_3kq6U39ElwKrWZU,anonymous,EN,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,2,2,6,6,5,3,3,3,6,7,7,6,5,4,6,6,6,5,5,7,6,5,6,6,6,6,6,5,5,7,3,6,6,6,3,4,6,2,5,3,6,4,6,2,4,5,6,5,6,6,2,2,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,05,DF,82,266,
+2019-03-02 19:36:12,2019-03-02 19:40:03,0,100,230,1,2019-03-02 19:40:03,R_2V8QgBpvdwrMzf8,anonymous,EN,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,4,4,3,1,4,4,4,3,5,4,4,1,6,1,6,7,7,3,4,3,2,5,5,6,5,5,5,4,3,4,4,5,7,4,4,4,7,3,7,6,6,5,5,1,5,5,3,5,6,7,2,2,4,06,he,87,233,
+2019-03-03 17:11:34,2019-03-03 17:15:03,0,100,209,1,2019-03-03 17:15:04,R_1doWZtgmWJXX0CW,anonymous,EN,1,2,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,6,2,3,5,3,3,5,6,4,5,6,3,5,3,3,4,3,6,3,2,1,5,4,6,4,3,6,6,5,5,5,5,3,3,3,2,5,3,6,3,3,2,3,2,4,5,7,3,2,7,2,3,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,214,
+2019-03-04 11:47:14,2019-03-04 11:54:03,0,100,408,1,2019-03-04 11:54:03,R_23dYk8elEymKvUZ,anonymous,EN,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,4,4,2,3,3,4,3,3,3,3,3,4,4,5,4,3,3,5,3,2,3,5,2,3,3,3,4,4,4,3,5,4,2,2,5,4,4,5,5,5,3,3,4,4,3,4,3,3,3,5,3,5,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,NJ,03,192,
+2019-03-04 14:41:34,2019-03-04 14:43:25,0,100,110,1,2019-03-04 14:43:25,R_2AGUKP8aiSSBb6z,anonymous,EN,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,2,4,3,4,5,5,5,3,4,3,5,2,4,3,5,4,3,3,5,4,4,4,6,4,5,5,3,5,6,5,3,4,5,6,4,3,5,2,4,2,3,5,2,2,4,5,5,2,6,5,2,4,3,01,nd,30,214,
+2019-03-04 15:20:52,2019-03-04 15:24:30,0,100,217,1,2019-03-04 15:24:31,R_3HOjcSimpLPsJmA,anonymous,EN,1,1,2,,7,4,4,7,1,1,4,3,6,5,5,5,6,7,6,6,6,1,7,7,7,7,7,3,7,7,1,4,1,7,1,3,7,7,1,2,1,2,4,7,7,7,7,1,1,6,4,7,7,7,1,2,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,25,PY,297,245,
+2019-03-04 16:22:22,2019-03-04 16:25:19,0,100,177,1,2019-03-04 16:25:20,R_3GwXCXpEotldBUK,anonymous,EN,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,2,3,5,5,1,2,6,3,5,5,6,6,3,1,5,5,6,2,5,5,6,6,6,3,5,7,4,4,4,5,2,4,5,6,2,3,4,2,4,4,5,5,3,2,3,5,4,6,6,6,4,3,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,29,bp,73,228,
+2019-03-04 22:44:17,2019-03-04 22:46:54,0,100,157,1,2019-03-04 22:46:55,R_PzxCr1ohfeFJc6l,anonymous,EN,1,1,1,,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,3,5,5,5,5,5,5,5,5,5,5,5,5,3,5,5,5,3,3,3,3,4,5,5,3,3,5,3,3,5,5,5,5,3,3,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,03,Gd,19,240,
+2019-03-05 11:48:49,2019-03-05 11:52:10,0,100,200,1,2019-03-05 11:52:10,R_2yszeqYFzcGbEYw,anonymous,EN,1,2,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,4,3,2,3,4,4,3,3,3,3,3,4,4,4,4,4,3,5,3,2,2,4,2,3,3,4,4,5,5,3,5,4,3,3,6,5,5,5,4,4,3,4,4,4,4,4,4,2,4,4,4,5,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,04,hy,74,199,
+2019-03-05 16:29:39,2019-03-05 16:32:42,0,100,182,1,2019-03-05 16:32:42,R_2tzETvAtciUoVHz,anonymous,EN,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,4,6,6,4,4,6,6,5,6,6,6,6,6,6,6,6,6,2,6,6,6,6,6,6,6,6,2,2,2,6,4,6,6,6,2,3,2,2,3,3,6,6,6,6,3,6,2,6,6,6,4,2,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30,px,34,265,
+2019-03-05 16:29:39,2019-03-05 16:33:41,0,100,241,1,2019-03-05 16:33:41,R_2usNOuBuFbb0FGh,anonymous,EN,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,2,3,4,5,5,3,5,2,5,3,4,5,5,5,5,5,5,3,5,5,5,5,4,4,4,5,5,5,5,5,3,4,4,5,3,4,5,3,3,3,5,3,5,2,5,5,5,4,2,6,4,4,3,16,XJ,05,226,
+2019-03-06 14:33:01,2019-03-06 14:41:37,0,100,515,1,2019-03-06 14:41:38,R_33Cr6dnOR5K5MtW,anonymous,EN,1,4,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,4,4,4,4,6,4,4,5,4,3,4,5,4,4,4,4,4,5,4,4,4,5,3,3,2,4,4,4,4,4,4,4,3,4,5,5,4,4,5,4,4,4,4,4,4,5,4,2,4,4,5,5,3,11,rl,34,218,
+2019-03-06 23:03:21,2019-03-06 23:06:44,0,100,203,1,2019-03-06 23:06:45,R_2dxWyepdHQ3tEhe,anonymous,EN,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,4,1,7,4,6,4,6,1,6,7,3,4,7,5,6,6,4,6,6,7,7,4,7,2,7,5,1,2,3,7,2,4,6,7,1,1,4,2,1,2,6,2,7,2,2,1,4,6,7,6,4,3,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,07,Jw,26,233,
+2019-02-28 17:45:02,2019-02-28 17:53:57,0,80,534,0,2019-03-07 17:54:00,R_bJkyfodAu8aS0Jb,anonymous,EN,1,1,1,,,5,,5,,,3,5,,6,5,7,6,4,4,,,,6,5,6,4,,,7,,,6,4,,2,,4,5,,2,,2,2,,,5,,,4,,,,5,5,4,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,130,
+2019-03-08 13:03:17,2019-03-08 13:07:03,0,100,225,1,2019-03-08 13:07:04,R_eUKPzEa6Ygj4B33,anonymous,EN,1,2,2,,5,3,3,5,5,3,3,2,4,5,5,3,4,4,4,4,3,2,4,5,5,3,5,4,5,4,4,3,3,4,3,4,5,5,5,5,3,2,4,3,5,3,4,3,3,3,4,4,5,4,3,2,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,03,JH,16,201,
+2019-03-09 19:15:02,2019-03-09 19:20:07,0,100,304,1,2019-03-09 19:20:09,R_PH5pm9UQsYLGNqN,anonymous,EN,1,4,1,,7,5,4,7,5,5,4,4,5,5,5,3,5,5,5,5,6,4,5,5,5,2,6,4,7,4,4,3,4,5,4,4,5,6,1,4,4,1,1,4,5,5,4,4,2,4,4,5,4,6,4,2,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,9,66,63,231,
+2019-03-09 20:22:20,2019-03-09 20:28:06,0,100,346,1,2019-03-09 20:28:07,R_1ir2a67JVZWi4Qk,anonymous,EN,1,2,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,5,5,7,7,3,2,6,4,5,6,5,5,6,5,5,6,6,5,6,5,5,4,6,5,7,5,5,5,5,6,3,5,6,6,1,2,4,2,3,3,6,3,4,4,1,6,6,6,4,7,3,2,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10,14,55,253,
+2019-03-10 10:36:12,2019-03-10 10:40:45,0,100,272,1,2019-03-10 10:40:45,R_1Ib0zLgjAAhIqSY,anonymous,EN,1,2,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,3,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,PL,71,58,
+2019-03-11 13:03:49,2019-03-11 13:07:42,0,100,233,1,2019-03-11 13:07:43,R_3RvC8oouLjnUrOa,anonymous,EN,1,1,3,,5,4,4,5,3,4,4,4,4,4,5,4,4,4,4,4,4,3,4,4,5,4,5,4,5,4,4,4,4,4,4,4,5,5,3,4,4,4,4,4,4,4,4,4,4,4,4,4,4,5,4,4,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,20,47,218,
+2019-03-11 13:03:50,2019-03-11 13:09:02,0,100,311,1,2019-03-11 13:09:04,R_214g3SLVir3mNcV,anonymous,EN,1,1,2,,7,4,5,7,5,3,3,5,5,6,5,5,5,5,6,5,5,5,6,7,6,5,7,7,7,6,5,4,4,6,3,5,7,7,1,1,6,2,5,2,6,3,4,3,3,4,6,7,4,7,2,2,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,9,05,25,254,
+2019-03-11 13:04:12,2019-03-11 13:09:05,0,100,292,1,2019-03-11 13:09:05,R_2SqNjStbaZVXDN8,anonymous,EN,1,1,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,4,3,7,6,4,4,4,4,7,6,5,4,6,4,7,6,5,4,6,7,7,6,7,6,7,6,4,4,4,7,4,4,7,7,1,2,4,2,4,4,6,4,4,2,4,7,4,7,4,7,4,1,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,53,88,265,
+2019-03-11 13:03:58,2019-03-11 13:09:24,0,100,325,1,2019-03-11 13:09:24,R_YaDxQqjtIfsXuyB,anonymous,EN,1,2,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,1,3,1,4,4,4,4,4,5,4,4,4,4,4,4,4,4,7,4,1,7,4,4,4,4,6,7,4,4,4,2,4,4,4,4,5,4,1,7,4,4,4,2,4,4,4,4,4,4,7,4,2,4,111191,RR,RR,219,
+2019-03-11 13:04:20,2019-03-11 13:09:55,0,100,334,1,2019-03-11 13:09:56,R_6Wmn5O2nXho2FK9,anonymous,EN,1,2,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,4,4,7,5,4,4,5,5,6,7,6,4,5,4,5,6,6,4,6,6,7,4,7,4,7,6,4,4,4,7,1,4,6,6,1,4,4,1,4,4,7,4,4,2,4,1,4,7,4,6,6,1,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,9,57,39,253,
+2019-03-11 13:03:58,2019-03-11 13:10:25,0,100,386,1,2019-03-11 13:10:25,R_3fGzXVGBPP9KeOJ,anonymous,EN,1,1,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,3,3,2,3,3,3,3,3,4,4,6,5,4,5,4,5,4,5,5,2,3,5,2,6,2,3,5,6,5,5,5,6,3,4,4,3,5,6,5,6,6,4,3,3,6,5,6,3,4,5,3,6,5,03,17,94,227,
+2019-03-11 13:04:02,2019-03-11 13:10:56,0,100,414,1,2019-03-11 13:10:57,R_2THRfiZIwILg3k0,anonymous,EN,1,2,2,,7,1,3,7,7,1,4,1,7,1,5,1,5,6,5,6,5,1,7,5,6,1,7,3,5,5,4,1,1,6,1,4,5,6,2,4,1,2,1,1,6,1,4,1,2,1,5,5,1,5,1,2,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,23,18,26,189,
+2019-03-11 13:03:49,2019-03-11 13:12:46,0,100,537,1,2019-03-11 13:12:47,R_D96yKZjJImFYECt,anonymous,EN,1,1,2,,7,4,5,7,5,4,4,5,4,6,6,4,4,4,5,5,5,5,5,6,5,5,7,5,7,4,4,4,3,5,5,4,5,6,2,3,4,3,5,3,6,3,4,5,1,4,6,5,3,6,4,3,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12,15,34,243,
+2019-03-11 13:04:04,2019-03-11 13:13:10,0,100,545,1,2019-03-11 13:13:11,R_pagAs4mpaTU0Xsd,anonymous,EN,1,1,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,5,5,7,7,6,3,6,5,7,7,6,7,7,5,7,7,7,4,7,7,7,6,7,5,7,7,4,7,4,7,4,6,7,7,1,4,5,1,5,2,7,4,6,6,1,7,6,7,5,7,4,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,18,61,294,
+2019-03-11 13:03:50,2019-03-11 13:13:38,0,100,588,1,2019-03-11 13:13:38,R_12L8J6EG2k0WPFz,anonymous,EN,1,1,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,1,1,2,1,1,1,4,1,1,1,3,1,1,1,1,1,3,1,1,2,3,1,2,1,2,1,1,1,1,1,1,1,3,2,5,1,1,7,1,1,3,1,1,1,7,1,1,2,1,5,5,7,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,04,22,11,106,
+2019-03-11 13:04:16,2019-03-11 13:13:39,0,100,562,1,2019-03-11 13:13:40,R_3KDRcdNbXK6sKC9,anonymous,EN,1,1,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,1,1,4,4,1,1,1,1,1,4,1,1,1,1,1,1,1,1,1,3,1,1,1,1,1,1,1,4,1,1,1,1,4,3,1,1,1,1,1,1,1,1,1,1,1,1,1,4,1,1,1,4,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,26,15,15,82,
+2019-03-11 13:04:06,2019-03-11 13:16:43,0,100,757,1,2019-03-11 13:16:44,R_tRhE3fuDvLez88F,anonymous,EN,1,1,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,5,7,4,3,4,4,6,7,6,7,2,4,2,6,5,5,3,5,3,3,6,7,2,6,4,6,6,5,2,6,7,3,5,3,6,4,5,6,7,4,5,6,4,6,4,4,5,4,5,3,5,5,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,09,15,31,254,
+2019-03-11 13:03:49,2019-03-11 13:17:10,0,100,800,1,2019-03-11 13:17:10,R_OxLyDy7rIYL1EVb,anonymous,EN,1,1,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,7,5,7,5,6,3,4,6,7,7,7,7,6,4,7,6,2,5,7,4,7,5,7,7,5,7,6,5,5,7,3,5,6,4,2,1,6,1,6,6,6,6,3,5,1,7,6,5,6,7,2,1,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,03,40,25,277,
+2019-03-11 13:04:04,2019-03-11 13:18:29,0,100,864,1,2019-03-11 13:18:29,R_cLRhEqAb2WlKnGV,anonymous,EN,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,3,5,4,4,2,2,3,1,3,4,4,3,2,3,4,3,2,5,3,4,4,6,2,4,1,5,5,6,5,3,3,6,2,3,4,3,4,5,5,3,3,2,4,4,5,1,5,2,4,6,3,6,1,10,92,06,192,
+2019-03-11 13:04:18,2019-03-11 13:19:23,0,100,904,1,2019-03-11 13:19:23,R_2zYcNTI998OegmG,anonymous,EN,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,1,1,4,7,5,1,3,1,2,2,4,1,5,4,4,2,6,1,2,6,3,1,3,1,1,1,1,1,1,2,2,4,6,5,7,3,1,6,1,3,4,1,2,1,5,1,4,4,4,1,4,7,2,14,18,04,160,
+2019-03-11 19:35:08,2019-03-11 19:36:59,0,100,110,1,2019-03-11 19:36:59,R_3foNX9FITaViIty,anonymous,EN,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,4,4,4,4,6,4,4,4,4,3,4,4,4,4,4,5,4,4,4,3,4,5,4,4,4,4,4,5,4,5,4,4,3,4,4,4,5,4,4,4,4,4,4,4,4,4,4,4,4,5,4,5,4,07,HG,77,222,
+2019-03-11 19:36:43,2019-03-11 19:40:01,0,100,197,1,2019-03-11 19:40:01,R_2SBTphANW1vdCfW,anonymous,EN,1,2,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,4,4,2,4,4,4,4,4,4,1,4,1,4,4,1,4,4,1,4,2,4,4,2,4,2,1,1,4,4,1,6,4,3,3,5,1,4,5,4,4,1,4,4,4,6,4,4,2,1,3,4,5,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,25,wa,81,178,
+2019-03-12 11:53:07,2019-03-12 11:55:49,0,100,162,1,2019-03-12 11:55:50,R_3m4XJM0BBrjfzNV,anonymous,EN,1,1,1,,7,2,5,6,7,1,4,5,7,2,7,5,7,4,7,7,7,3,2,7,7,6,6,2,7,7,2,6,3,7,1,4,7,7,1,2,2,1,4,1,6,2,3,2,1,2,4,7,7,7,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13,HH,55,229,
+2019-03-06 13:52:16,2019-03-06 13:55:48,0,80,212,0,2019-03-13 13:56:00,R_eOO0rBf6GkiqBDb,anonymous,EN,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,,4,4,,,3,,4,4,4,,,4,4,4,4,,4,,4,,2,,,,,,,,3,3,,4,,5,4,,,,,,,,,,4,,,6,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,87,
+2019-03-13 20:48:35,2019-03-13 20:51:00,0,100,144,1,2019-03-13 20:51:00,R_3peWiBKShaKk47A,anonymous,EN,1,1,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,6,3,5,6,2,5,5,3,2,4,6,3,4,3,4,6,6,2,5,5,7,6,6,3,3,4,3,6,4,5,7,5,4,5,5,5,4,4,5,5,4,6,4,4,3,6,2,2,3,3,5,4,3,27,PZ,29,232,
+2019-03-14 16:27:59,2019-03-14 16:32:50,0,100,291,1,2019-03-14 16:32:51,R_78kITOibfJ0j3SV,anonymous,EN,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,3,1,7,6,5,2,5,1,6,5,6,6,7,6,6,6,6,3,6,6,6,6,6,6,6,6,1,4,3,6,1,6,6,6,2,3,1,2,4,1,7,6,5,1,3,5,4,6,6,5,2,2,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,06,AE,03,243,
+2019-03-09 15:55:50,2019-03-09 15:58:29,0,80,158,0,2019-03-16 15:59:26,R_27EuIWW8fXLDpLD,anonymous,EN,1,2,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,1,,,1,1,,,,4,,,,3,,,,,,,,,,,1,,,,,,,,3,,4,5,,2,,,,,3,,,5,,,,,,,,,,34,
+2019-03-17 19:45:26,2019-03-17 19:51:13,0,100,347,1,2019-03-17 19:51:14,R_2CE9FOdp7Sn06RD,anonymous,EN,1,1,1,,6,3,3,6,4,2,6,3,5,4,3,5,5,5,5,5,5,2,5,3,5,5,6,4,6,5,2,4,1,6,1,4,6,5,1,1,3,1,1,1,5,4,1,3,1,4,1,5,5,5,3,3,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,dt,22,196,
+2019-03-18 10:51:20,2019-03-18 10:58:13,0,100,413,1,2019-03-18 10:58:14,R_2WNopFb8fovFaiW,anonymous,EN,1,1,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,5,4,1,1,3,4,5,2,6,2,5,6,6,2,2,5,2,4,6,1,2,5,1,6,1,5,5,6,7,6,3,2,1,1,7,6,6,7,7,4,2,5,3,4,7,5,5,1,2,5,4,7,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,02,RF,65,215,
+2019-03-11 13:03:52,2019-03-11 13:07:58,0,90,245,0,2019-03-18 13:07:59,R_11YfBcsu0lC10LB,anonymous,EN,1,1,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,4,4,3,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,3,4,1,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,211,
+2019-03-19 09:12:20,2019-03-19 09:14:16,0,100,115,1,2019-03-19 09:14:16,R_23dFpSGUwYGOc6b,anonymous,EN,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,4,4,3,4,4,2,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,3,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,3,4,4,4,4,4,4,4,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,04,SB,66,211,
+2019-03-19 11:45:43,2019-03-19 12:19:16,0,100,2013,1,2019-03-19 12:19:16,R_2Y6feFv7o03NsBc,anonymous,EN,1,2,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,4,5,7,7,6,4,5,3,6,6,3,5,6,4,5,6,6,3,6,6,5,5,5,4,6,6,4,5,4,5,3,4,6,7,3,4,5,3,4,3,6,6,5,4,3,4,4,6,4,5,4,3,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,11,NA,37,258,
+2019-03-19 14:44:59,2019-03-19 14:47:40,0,100,160,1,2019-03-19 14:47:41,R_2t4p0hHVniGDL4i,anonymous,EN,1,1,1,,5,3,2,5,5,2,5,2,5,5,5,5,5,2,5,5,5,3,5,6,6,5,5,5,5,5,4,5,5,5,2,5,5,5,2,5,4,3,6,2,5,2,5,2,2,2,5,5,5,2,3,2,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12,Ww,77,219,
+2019-03-19 14:59:20,2019-03-19 15:16:20,0,100,1020,1,2019-03-19 15:16:21,R_29gBNu3EiZkyDom,anonymous,EN,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,3,1,3,7,6,2,3,6,3,6,6,6,2,2,6,7,3,4,6,5,6,5,3,6,3,4,5,5,5,5,4,5,5,5,3,5,7,3,6,1,6,6,2,1,4,5,7,3,3,5,3,3,5,04,RW,55,233,
+2019-03-21 11:46:59,2019-03-21 11:54:43,0,100,463,1,2019-03-21 11:54:43,R_1NeOXVeSyLTskc9,anonymous,EN,1,3,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,1,1,4,4,5,4,3,1,4,3,5,1,2,2,3,4,2,1,3,3,3,2,2,3,3,3,3,3,3,3,4,3,4,4,5,3,4,3,2,2,2,4,1,1,5,2,4,2,2,5,3,3,4,30,DB,91,159,
+2019-03-21 11:55:32,2019-03-21 11:59:44,0,100,252,1,2019-03-21 11:59:45,R_33ptq0grRiA8wwA,anonymous,EN,1,2,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,2,2,2,4,3,3,3,3,4,2,3,3,5,4,4,3,3,6,3,2,3,5,2,5,2,4,5,4,3,4,4,4,3,3,5,6,6,4,5,5,4,3,3,1,6,3,6,2,3,4,5,5,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,27,pf,81,196,
+2019-03-21 13:47:42,2019-03-21 13:53:41,0,100,359,1,2019-03-21 13:53:42,R_3RlpCQwqggZRk3d,anonymous,EN,1,2,2,,5,4,4,5,6,4,5,4,5,4,5,5,5,6,6,6,5,3,6,6,5,6,5,2,6,6,7,6,5,5,4,5,7,5,3,5,6,4,3,4,5,4,6,4,5,4,4,4,5,6,4,4,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13,RU,70,257,
+2019-03-21 21:47:17,2019-03-21 21:54:13,0,100,416,1,2019-03-21 21:54:14,R_2c8u4VjuJLwcBjP,anonymous,EN,1,4,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,1,1,7,4,6,1,1,1,5,6,5,6,5,7,7,6,5,4,6,6,7,5,7,4,7,7,4,4,1,6,2,4,7,6,1,1,1,1,1,1,7,4,5,1,1,4,4,7,6,7,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18,RU,23,223,
+2019-03-22 11:50:33,2019-03-22 12:26:40,0,100,2166,1,2019-03-22 12:26:40,R_3KTJ6AUoIYypJKb,anonymous,EN,1,2,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,4,3,3,6,4,4,4,4,4,4,4,4,4,4,4,4,3,4,4,4,4,4,3,4,3,4,4,4,5,4,1,4,4,4,4,5,4,4,4,4,3,1,4,4,4,5,5,3,4,5,4,4,4,04,gj,41,210,
+2019-03-23 23:40:49,2019-03-23 23:44:38,0,100,229,1,2019-03-23 23:44:39,R_22zdAN4oQDZ52D5,anonymous,EN,1,1,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,2,4,6,6,6,3,5,5,6,7,6,6,5,5,4,6,5,3,6,6,7,6,6,5,5,6,6,5,7,7,5,3,6,5,3,6,7,3,3,3,7,5,7,3,4,5,6,5,5,5,2,3,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,24,hl,74,272,
+2019-03-26 16:24:13,2019-03-26 16:26:38,0,100,145,1,2019-03-26 16:26:38,R_xf1QsUgHsnc4nAd,anonymous,EN,1,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,5,5,6,7,5,4,5,3,6,5,4,6,6,7,6,6,5,4,6,5,6,3,5,5,6,5,3,3,3,7,3,3,5,5,3,2,3,2,5,4,6,6,6,3,2,5,3,6,6,5,3,1,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,248,
+2019-03-26 16:55:09,2019-03-26 16:59:39,0,100,270,1,2019-03-26 16:59:40,R_3L0GfCFcxYQvU5O,anonymous,EN,1,3,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,4,1,1,4,4,1,3,2,4,4,4,4,3,2,4,2,3,4,4,1,3,4,3,4,2,4,4,4,4,3,5,4,2,1,5,4,4,5,2,2,3,4,1,4,5,4,2,2,2,3,3,5,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,11,PT,13,173,
+2019-03-22 14:53:10,2019-03-22 14:54:48,0,90,98,0,2019-03-26 17:01:29,R_3JwlPzvrVrZ5qIv,anonymous,EN,1,2,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,5,3,6,6,6,6,4,3,4,6,6,5,3,3,6,6,6,6,4,6,3,3,2,6,3,4,3,4,4,4,6,6,6,6,6,3,6,3,6,3,6,4,4,6,3,3,4,4,3,3,4,4,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,244,
+2019-03-26 17:08:05,2019-03-26 17:11:28,0,100,202,1,2019-03-26 17:11:29,R_8e8IHIlRKJLvjQB,anonymous,EN,1,3,1,,5,3,6,6,6,2,6,6,5,6,6,5,5,5,5,5,7,3,7,6,4,5,1,4,6,6,6,5,2,6,2,3,6,2,2,5,4,1,2,7,6,5,3,5,2,2,6,6,6,6,3,2,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,241,
+2019-03-26 17:18:15,2019-03-26 17:22:44,0,100,269,1,2019-03-26 17:22:44,R_2qyfHfFETRvW6Qd,anonymous,EN,1,4,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,4,4,1,4,5,4,4,4,3,5,5,4,4,1,4,4,2,5,3,3,2,4,2,5,2,2,5,6,5,4,7,4,3,2,2,3,4,7,5,4,4,4,4,3,6,3,4,1,2,3,5,6,3,8,RA,39,201,
+2019-03-26 17:28:28,2019-03-26 17:32:52,0,100,263,1,2019-03-26 17:32:52,R_3jHDNfpjpx2KxTX,anonymous,EN,1,2,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,6,2,2,1,4,6,2,3,3,2,3,3,4,2,3,2,3,5,2,2,2,6,1,5,2,3,5,5,6,2,4,6,2,2,5,2,5,6,6,5,3,2,3,4,4,2,6,2,3,6,5,5,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,189,
+2019-03-26 18:21:35,2019-03-26 18:33:55,0,100,740,1,2019-03-26 18:33:56,R_OwiTfdrgbGMLKnf,anonymous,EN,1,1,1,,7,1,1,6,3,1,4,1,5,2,1,5,5,5,6,5,6,1,5,5,7,2,6,1,7,6,1,1,1,5,1,1,4,7,1,1,1,1,1,1,6,5,3,1,1,4,1,5,7,2,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,28,SS,76,169,
+2019-03-26 18:31:36,2019-03-26 18:37:15,0,100,338,1,2019-03-26 18:37:15,R_3HYMG53Ylg7aFKU,anonymous,EN,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,6,7,2,1,1,7,7,7,7,7,7,1,6,7,5,6,5,1,7,7,2,3,6,7,1,4,1,2,1,6,7,4,7,6,6,4,1,1,7,1,5,7,6,7,4,6,7,6,7,1,4,1,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12,HR,88,255,
+2019-03-26 18:36:13,2019-03-26 18:42:22,0,100,368,1,2019-03-26 18:42:22,R_bvKOA6nautVAuaJ,anonymous,EN,1,3,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,5,4,3,3,4,1,1,3,4,2,4,1,1,1,4,4,3,5,4,2,3,4,1,3,3,1,4,4,4,4,4,1,4,3,6,5,5,3,3,5,4,4,4,4,5,1,6,2,4,3,5,5,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,07,OB,23,180,
+2019-03-26 20:13:37,2019-03-26 20:16:51,0,100,194,1,2019-03-26 20:16:52,R_6JOctDXdVkSLjsB,anonymous,EN,1,2,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,3,1,7,1,1,1,4,1,5,4,5,3,4,2,6,4,5,1,5,4,5,1,7,1,7,4,1,1,1,4,1,4,5,7,1,1,1,1,1,1,5,1,1,1,1,1,1,7,1,7,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,11,80216,93,158,
+2019-03-26 23:10:49,2019-03-26 23:19:08,0,100,499,1,2019-03-26 23:19:09,R_XjNtGe3ob4s83n3,anonymous,EN,1,3,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,5,3,1,3,5,2,1,1,3,1,5,3,4,2,3,2,1,3,2,1,1,3,1,4,1,3,4,4,3,3,7,4,1,1,7,4,4,7,3,5,1,5,2,6,1,4,3,1,1,4,6,7,2,10,Eh,01,165,
+2019-03-27 02:46:15,2019-03-27 02:49:10,0,100,174,1,2019-03-27 02:49:10,R_3flVRI8GaUNRVHq,anonymous,EN,1,1,1,,7,7,6,7,7,7,6,7,5,6,6,2,4,6,6,6,6,4,6,6,6,6,6,6,6,6,2,2,5,6,6,2,6,6,1,2,2,1,6,6,7,6,6,6,4,5,6,7,6,6,5,2,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10,gw,88,279,
+2019-03-26 16:24:22,2019-03-26 16:30:02,0,80,339,0,2019-03-27 10:16:58,R_3G3xB7BSv8smwPO,anonymous,EN,1,2,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,1,1,1,2,4,1,5,1,1,1,,,1,3,3,1,2,3,2,3,,2,4,1,3,1,6,4,6,4,4,3,3,2,6,1,6,6,2,1,3,4,3,2,6,1,1,,1,4,6,5,1,,,,142,
+2019-03-27 17:40:13,2019-03-27 17:43:45,0,100,211,1,2019-03-27 17:43:46,R_3RpVbfx5hEQkTDC,anonymous,EN,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,3,3,6,6,5,3,6,3,6,6,6,4,6,5,5,6,6,3,6,6,5,6,7,5,6,6,5,5,5,7,3,6,6,6,1,4,5,1,4,3,6,6,6,3,6,5,5,7,5,6,2,1,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,07,AP,95,263,
+2019-03-27 19:31:57,2019-03-27 19:37:18,0,100,320,1,2019-03-27 19:37:18,R_r9jgnAUCxVyInSh,anonymous,EN,1,1,1,,7,5,5,7,6,1,5,3,6,7,6,1,4,6,7,5,6,4,6,7,7,6,7,4,7,7,2,3,1,7,1,2,7,7,1,1,2,1,1,1,7,4,1,1,2,3,3,7,1,7,1,1,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13,"Tg ",84,222,
+2019-03-28 06:26:08,2019-03-28 06:33:05,0,100,416,1,2019-03-28 06:33:05,R_3h4RTEqK9uQLsZA,anonymous,EN,1,4,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,3,4,4,4,4,3,4,2,3,4,3,4,4,4,4,4,4,4,4,3,3,4,3,4,4,4,4,5,4,4,4,4,3,2,4,3,4,3,4,4,4,2,4,1,3,3,4,3,2,4,4,5,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19,27,18,193,
+2019-03-28 15:45:27,2019-03-28 15:48:11,0,100,164,1,2019-03-28 15:48:12,R_11Xdz6WKADbb8eG,anonymous,EN,1,2,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,4,4,3,4,4,4,4,4,4,4,4,4,4,4,4,4,4,5,4,3,4,4,3,4,3,4,4,4,4,4,4,4,3,3,3,4,4,5,4,4,4,4,4,4,3,4,4,3,4,5,4,5,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,06,16,57,210,
+2019-03-30 15:13:24,2019-03-30 15:17:53,0,100,268,1,2019-03-30 15:17:55,R_uslw8LrI2pYaIIV,anonymous,EN,1,2,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,1,2,7,7,5,4,7,2,7,7,4,5,7,7,7,7,7,4,7,7,7,7,7,4,7,7,4,4,4,7,4,4,7,7,1,4,1,1,1,4,7,7,7,1,1,4,4,7,7,7,5,1,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12,wl,49,275,
+2019-04-01 18:15:21,2019-04-01 18:18:54,0,100,213,1,2019-04-01 18:18:54,R_1Dqyhid2Pq9ve5c,anonymous,EN,1,1,1,,7,4,4,7,7,4,4,6,7,7,7,4,7,6,7,7,7,3,7,7,7,5,7,6,7,7,4,5,4,7,4,5,7,7,4,2,4,2,4,4,7,5,7,4,4,7,5,7,7,7,4,1,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30,NS,03,291,
+2019-04-01 21:02:33,2019-04-01 21:05:44,0,100,190,1,2019-04-01 21:05:44,R_3QFBkeleAgn6IRe,anonymous,EN,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,1,1,3,7,6,1,1,1,1,1,5,1,2,3,1,7,1,1,2,7,1,3,1,1,2,2,6,1,1,1,1,7,7,7,7,1,2,7,1,7,3,2,1,1,1,5,1,7,1,7,1,7,1,16,Sl,68,162,
+2019-04-02 11:49:47,2019-04-02 11:53:26,0,100,219,1,2019-04-02 11:53:27,R_tS2VaNyTqfeU6cx,anonymous,EN,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,4,3,6,6,4,4,4,3,5,5,5,4,3,4,5,5,4,4,4,5,4,4,5,5,7,5,4,4,4,5,3,4,5,7,3,4,4,3,4,4,5,4,5,3,4,4,5,5,1,5,4,1,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,26,AA,04,232,
+2019-04-02 20:43:25,2019-04-02 20:47:42,0,100,256,1,2019-04-02 20:47:43,R_ykJb8Jk4BG80FlD,anonymous,EN,1,3,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,4,4,2,3,4,4,4,4,4,4,4,4,4,4,4,4,4,5,4,2,2,4,2,4,2,4,4,4,4,4,4,4,2,3,5,4,4,4,4,4,4,2,4,4,5,4,4,2,4,4,4,5,4,22,ar,32,200,
+2019-03-28 12:44:52,2019-03-28 12:50:24,0,90,331,0,2019-04-03 10:04:23,R_2Ezd6jXZH9aMhYy,anonymous,EN,1,3,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,2,2,2,7,6,4,3,5,2,6,5,6,3,3,2,5,5,5,3,2,2,5,2,6,2,2,6,6,5,5,6,6,2,3,2,5,6,3,5,2,2,6,3,2,3,2,7,2,2,5,5,6,2,,,,208,
+2019-04-03 13:18:25,2019-04-03 13:23:00,0,100,274,1,2019-04-03 13:23:00,R_XXHg4UFzHwbNGGB,anonymous,EN,1,1,1,,7,6,6,6,2,3,4,7,6,6,5,1,5,4,6,7,6,2,6,5,4,5,7,5,6,6,3,4,4,7,4,5,7,5,1,3,4,1,4,6,6,5,4,4,5,6,4,7,5,7,1,3,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,14,"TT ","29 ",255,
+2019-04-03 13:52:58,2019-04-03 14:50:44,0,100,3465,1,2019-04-03 14:50:45,R_24uxM0zhMy1JZxH,anonymous,EN,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,3,2,3,3,4,4,5,2,5,5,5,4,4,4,4,4,3,5,4,3,3,5,3,3,3,5,5,6,5,5,4,5,6,4,5,5,5,4,4,3,4,4,4,4,5,5,4,3,4,5,4,4,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,24,AU,71,220,
+2019-04-03 21:23:41,2019-04-03 21:27:32,0,100,230,1,2019-04-03 21:27:32,R_2uCVlMmEZydZrOW,anonymous,EN,1,1,1,,6,5,5,7,6,3,6,5,5,6,6,3,5,5,5,5,6,4,5,5,5,6,7,5,6,7,3,3,6,5,3,5,6,4,2,2,3,2,5,3,7,5,6,5,2,4,3,5,3,6,2,3,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,01,SA,17,247,
+2019-04-03 21:35:26,2019-04-03 21:39:31,0,100,244,1,2019-04-03 21:39:31,R_1KqkjCmbVV8UJdT,anonymous,EN,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,1,2,7,4,5,2,4,2,7,5,4,4,7,5,7,7,5,3,3,5,5,3,6,4,7,6,4,3,4,7,3,4,7,7,1,4,5,1,1,3,6,1,4,2,1,4,4,5,7,5,3,1,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,11,JG,23,229,
+2019-04-03 23:16:25,2019-04-03 23:19:39,0,100,194,1,2019-04-03 23:19:39,R_T0likxzDyprOfcZ,anonymous,EN,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,3,3,1,6,4,4,3,3,2,2,5,5,4,3,2,3,2,6,2,3,2,5,2,5,2,3,5,5,5,3,5,3,2,2,6,3,5,5,5,1,3,2,2,3,3,3,6,2,2,3,3,5,3,19,FQ,92,182,
+2019-04-03 23:51:39,2019-04-03 23:59:36,0,100,476,1,2019-04-03 23:59:36,R_DIssIkEIL6Bf5Hb,anonymous,EN,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,3,4,4,4,5,5,3,3,4,3,3,5,4,4,3,4,3,4,3,4,5,4,3,5,3,4,5,5,5,4,5,5,3,4,4,5,5,4,5,3,3,3,4,3,4,3,5,3,3,4,5,4,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12,TB,95,212,
+2019-04-04 02:16:05,2019-04-04 03:03:12,0,90,2827,0,2019-04-04 10:49:47,R_To1eWxCmMdait21,anonymous,EN,1,3,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,3,6,3,7,6,7,6,4,6,6,2,5,6,5,7,5,7,6,7,6,5,6,6,7,6,7,6,6,6,6,6,6,6,6,4,7,4,7,6,3,5,7,6,3,5,4,3,6,6,6,6,3,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,299,
+2019-04-05 10:27:28,2019-04-05 10:29:32,0,100,123,1,2019-04-05 10:29:32,R_3ffsgv6HG9LXWmA,anonymous,EN,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,4,5,5,5,3,5,5,6,5,5,5,4,5,5,5,5,5,4,5,5,6,5,6,5,5,6,4,5,4,5,3,5,6,5,3,3,3,3,5,5,5,4,5,5,3,5,5,5,6,5,4,3,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,253,
+2019-04-05 17:03:58,2019-04-05 17:08:27,0,100,268,1,2019-04-05 17:08:27,R_6QD3S9UL4LqMBxf,anonymous,EN,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,4,4,2,6,2,2,4,4,3,4,3,4,4,1,1,3,2,4,4,4,4,5,2,5,1,3,5,6,5,4,4,4,1,3,2,4,4,3,4,4,2,4,4,2,2,4,6,2,4,4,4,3,3,17,UX,55,184,
+2019-04-07 20:17:35,2019-04-07 20:20:56,0,100,200,1,2019-04-07 20:20:57,R_1HpAoDbiStlbDlN,anonymous,EN,1,4,1,,4,4,4,5,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,5,4,5,5,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,5,4,4,4,4,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,GR,66,217,
+2019-04-07 22:12:40,2019-04-07 22:27:32,0,100,892,1,2019-04-07 22:27:32,R_RJOKBxqeSb7Lww9,anonymous,EN,1,3,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,1,1,6,5,1,1,1,1,3,3,1,3,3,3,4,4,1,1,4,4,4,4,6,1,6,1,1,1,1,5,1,3,5,5,2,1,1,3,1,1,4,1,1,1,2,1,3,5,1,5,1,2,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,11,dy,47,139,
+2019-04-09 12:52:35,2019-04-09 12:55:39,0,100,183,1,2019-04-09 12:55:39,R_3mggVRdCUuoXjTN,anonymous,EN,1,1,1,,7,5,5,7,7,3,6,7,7,7,6,6,6,6,7,7,7,1,7,5,7,6,7,7,7,6,4,5,4,7,5,5,7,7,1,1,4,1,5,1,7,5,6,7,4,6,5,7,7,6,1,1,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,27,en,85,284,
+2019-04-09 13:14:44,2019-04-09 13:21:03,0,100,378,1,2019-04-09 13:21:04,R_1K850pAqtwHFBty,anonymous,EN,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,3,3,3,5,3,3,3,4,4,3,5,4,3,3,3,4,3,3,3,3,5,4,2,5,2,4,3,4,4,3,4,4,3,2,2,3,4,3,3,3,4,2,5,3,5,3,5,3,3,5,3,5,3,04,FT,59,187,
+2019-04-09 18:42:00,2019-04-09 18:46:06,0,100,245,1,2019-04-09 18:46:06,R_27v8SNED91lh8Uz,anonymous,EN,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,4,1,1,1,2,2,2,1,1,2,3,3,1,1,1,1,1,1,3,1,6,1,2,1,1,1,2,1,1,2,1,1,2,3,6,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,Uh,15,85,
+2019-04-10 09:48:07,2019-04-10 09:50:30,0,100,142,1,2019-04-10 09:50:30,R_O2REAclP7GeK2J3,anonymous,EN,1,1,,,7,2,2,5,4,3,5,4,4,4,5,5,5,4,4,5,5,3,6,6,2,3,5,1,4,6,4,4,3,6,2,3,7,6,2,1,4,4,3,2,6,4,3,4,2,3,5,6,5,5,3,2,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,213,
+2019-04-10 12:22:28,2019-04-10 12:28:10,0,100,342,1,2019-04-10 12:28:11,R_1MN9eyTVWepwBDr,anonymous,EN,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,4,3,2,7,5,3,4,4,4,3,4,5,3,3,4,4,2,6,4,2,3,4,2,4,3,4,5,5,5,4,5,4,2,2,6,5,5,5,5,4,3,5,4,2,4,4,5,3,3,6,5,6,2,28,PJ,69,212,
+2019-04-10 23:03:07,2019-04-10 23:14:03,0,100,655,1,2019-04-10 23:14:03,R_2xEpDMcsdssh01C,anonymous,EN,1,1,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,3,2,2,4,4,2,4,3,4,4,5,4,4,4,4,5,2,4,3,2,2,4,4,6,3,4,6,7,6,4,4,4,2,3,6,2,5,5,3,4,4,3,3,3,5,5,6,3,4,5,5,5,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,05,SA,16,210,
+2019-04-12 15:41:01,2019-04-12 15:43:53,0,100,171,1,2019-04-12 15:43:53,R_1QxSBjxvl4xmhgZ,anonymous,EN,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,4,4,5,5,4,4,6,4,4,4,4,4,6,4,5,4,4,5,5,5,4,4,5,5,4,5,4,4,4,5,4,4,5,5,2,3,4,3,4,4,5,4,4,4,4,4,4,5,4,4,4,4,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,11,qf,52,230,
+2019-04-12 15:57:01,2019-04-12 16:03:55,0,100,413,1,2019-04-12 16:03:55,R_sAnH8mOiyZFkJsl,anonymous,EN,1,1,1,,6,4,5,6,4,4,6,6,6,6,6,6,6,6,6,6,6,5,6,6,6,6,6,6,6,6,4,5,4,6,4,5,6,6,2,2,4,2,6,6,6,5,6,6,2,5,5,5,6,6,2,2,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,23,HA,28,270,
+2019-04-13 12:53:20,2019-04-13 12:57:37,0,100,256,1,2019-04-13 12:57:38,R_1Ka4bpPYNkZ7d9C,anonymous,EN,1,4,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,3,2,3,3,4,3,4,4,3,3,4,4,3,3,3,2,3,3,4,3,3,4,3,4,2,3,3,3,3,4,4,4,3,3,5,4,4,3,3,3,3,4,4,4,4,3,4,3,4,3,4,4,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12,03,41,183,
+2019-04-15 21:36:44,2019-04-15 21:45:45,0,100,541,1,2019-04-15 21:45:46,R_3M5PPNVz52dsBXu,anonymous,EN,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,4,4,5,2,3,5,2,5,2,2,2,3,2,3,3,3,2,4,3,1,2,1,1,3,1,4,6,3,6,2,6,3,1,1,7,6,5,2,2,6,3,2,2,4,6,7,3,1,2,3,6,7,2,24,nn,83,177,
+2019-04-16 10:03:18,2019-04-16 10:06:26,0,100,187,1,2019-04-16 10:06:28,R_3es0cJW0lUORAwX,anonymous,EN,1,1,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,3,3,6,6,4,3,5,4,6,5,5,4,5,5,5,5,6,5,5,5,6,5,7,5,6,5,4,5,5,5,3,5,6,6,1,3,4,1,4,3,6,3,5,1,4,2,5,5,5,5,3,2,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,24,QH,52,241,
+2019-04-16 18:10:57,2019-04-16 18:14:11,0,100,194,1,2019-04-16 18:14:12,R_WrOnWfbNNtkxSKd,anonymous,EN,1,6,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,4,4,3,5,3,4,3,4,3,3,2,4,3,3,3,3,3,5,4,4,4,5,3,5,4,3,5,5,5,4,5,4,3,4,4,5,5,3,5,3,3,4,4,3,3,3,3,3,3,5,5,5,3,22,ju,63,204,
+2019-04-16 18:20:03,2019-04-16 18:24:15,0,100,252,1,2019-04-16 18:24:15,R_1DUtPWFGgh24y3O,anonymous,EN,1,1,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,4,3,1,3,3,3,5,3,3,4,3,4,5,3,4,3,3,5,4,3,3,5,1,5,1,3,5,6,5,4,3,7,3,2,5,3,4,5,5,5,2,5,5,4,4,4,6,3,1,4,5,5,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,FH,78,205,
+2019-04-17 16:03:57,2019-04-17 16:10:20,0,100,382,1,2019-04-17 16:10:20,R_1menPaCNzprLR12,anonymous,EN,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,4,4,6,7,2,1,6,4,6,6,6,5,6,6,6,6,6,4,6,6,6,6,6,4,7,6,6,6,4,6,4,4,6,6,2,4,4,2,4,1,6,7,5,4,2,1,6,6,6,6,4,2,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12,rh,24,263,
+2019-04-21 04:48:12,2019-04-21 04:54:04,0,100,351,1,2019-04-21 04:54:04,R_AC0zux9DDJv76ox,anonymous,EN,1,1,1,,6,6,7,6,7,5,5,6,7,7,4,3,6,7,5,6,7,2,6,7,6,7,7,6,7,7,3,3,6,7,6,6,5,7,2,4,3,1,3,7,7,5,5,6,2,7,2,6,7,7,4,2,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,07,EX,55,283,
+2019-04-24 23:51:08,2019-04-24 23:53:55,0,100,167,1,2019-04-24 23:53:56,R_3qD37jcUlBaqYoj,anonymous,EN,1,,2,,6,4,3,7,6,3,1,5,5,6,4,3,6,3,6,6,6,5,6,6,6,5,7,6,6,4,5,4,3,5,4,4,6,7,1,4,4,3,6,3,5,4,3,3,2,3,4,6,3,4,4,2,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,26,M1,04,239,
+2019-04-24 23:59:53,2019-04-25 00:02:23,0,100,149,1,2019-04-25 00:02:23,R_1f9JVXrPniFoe8X,anonymous,EN,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,6,2,3,6,4,1,6,7,5,5,2,1,4,1,3,4,1,7,3,4,2,6,1,2,2,3,6,7,7,4,4,7,3,2,1,5,6,5,7,6,1,2,7,5,6,4,3,6,1,3,4,3,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,01,xy,47,210,
+2019-04-25 10:23:16,2019-04-25 10:26:03,0,100,167,1,2019-04-25 10:26:04,R_1DYD9XsXnIy8zPE,anonymous,EN,1,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,5,5,5,5,6,5,5,5,5,6,5,5,5,2,6,3,5,6,5,5,5,5,5,5,5,5,5,6,5,6,5,6,4,6,5,5,5,2,5,5,5,5,6,5,5,5,5,5,5,5,5,5,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,267,
+2019-04-26 11:44:47,2019-04-26 11:52:38,0,100,471,1,2019-04-26 11:52:39,R_3n6HLzNK6Q8qFkE,anonymous,EN,1,3,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,5,4,3,4,4,4,4,4,2,4,5,3,2,3,4,4,3,6,3,3,3,4,3,5,2,4,4,5,4,4,5,3,3,3,5,5,4,5,5,4,3,4,3,3,5,4,4,4,3,4,4,5,3,13,Du,93,207,
+2019-04-27 12:10:29,2019-04-27 12:20:03,0,100,574,1,2019-04-27 12:20:03,R_3k6P9ipv6YfVYKs,anonymous,EN,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,1,1,2,1,3,1,1,1,1,1,1,1,1,1,1,1,3,1,3,3,1,1,4,1,3,1,4,1,1,1,2,3,3,2,2,1,4,2,2,1,1,1,1,1,3,1,1,3,3,3,3,3,1,06,NH,74,95,
+2019-04-30 14:09:04,2019-04-30 14:13:05,0,100,241,1,2019-04-30 14:13:06,R_1K8wtwbeAgUvC5D,anonymous,EN,1,3,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,3,3,6,5,6,3,5,3,5,5,5,4,6,6,6,6,6,4,5,6,5,5,6,4,5,5,5,5,4,6,3,5,6,5,2,4,3,2,4,4,6,5,6,3,2,5,5,5,5,5,2,2,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,aq,91,247,
+2019-04-30 14:40:40,2019-04-30 14:46:53,0,100,372,1,2019-04-30 14:46:53,R_etBnIQph3hZvQaJ,anonymous,EN,1,1,1,,7,4,2,7,6,3,6,5,6,5,6,6,7,5,6,6,7,5,6,7,6,5,7,3,7,6,4,4,2,5,2,3,5,5,3,2,2,4,2,4,7,2,6,5,5,2,6,6,5,7,2,3,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,02,UW,56,252,
+2019-04-30 14:45:17,2019-04-30 14:49:16,0,100,238,1,2019-04-30 14:49:16,R_1gA9PGev2pT6cV4,anonymous,EN,1,6,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,3,2,2,4,5,3,3,2,3,2,3,4,4,4,3,3,3,6,4,2,2,5,2,5,3,4,6,6,6,3,4,5,2,2,5,3,6,4,5,2,3,4,3,1,4,3,4,1,2,5,3,6,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,28,SA,19,188,
+2019-04-30 15:06:17,2019-04-30 15:09:48,0,100,210,1,2019-04-30 15:09:48,R_1CmsWmSTzCrT87H,anonymous,EN,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,4,2,1,3,3,2,2,1,4,2,4,2,4,4,3,2,1,3,2,2,1,5,1,4,2,3,4,4,4,2,4,4,1,1,5,2,5,3,4,4,2,3,4,1,2,4,4,2,2,3,3,6,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,155,
+2019-04-30 16:52:10,2019-04-30 16:56:17,0,100,247,1,2019-04-30 16:56:17,R_7ZNID4oeFQ6IrC1,anonymous,EN,1,,2,,5,3,2,7,6,1,2,2,5,5,5,3,4,3,4,5,5,1,5,7,5,4,7,1,7,4,1,1,1,4,1,4,4,5,1,1,1,1,3,1,4,2,2,3,1,1,5,6,3,6,1,1,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,174,
+2019-04-30 16:55:41,2019-04-30 17:00:53,0,100,312,1,2019-04-30 17:00:54,R_2VlmNnErYbR9Yk9,anonymous,EN,1,2,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,1,1,7,1,1,1,6,1,7,7,7,7,6,7,4,7,7,4,7,6,7,7,7,7,7,7,1,6,1,7,1,1,7,6,1,1,4,1,5,3,7,6,7,1,1,1,6,4,3,6,3,1,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,14,Pg,69,232,
+2019-04-30 23:11:28,2019-04-30 23:19:10,0,100,462,1,2019-04-30 23:19:11,R_2OZsvxOHVnclbKc,anonymous,EN,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,1,1,6,7,4,2,4,4,6,6,5,6,6,2,6,3,5,2,7,6,6,6,6,4,4,6,6,6,6,2,2,6,6,3,4,3,3,2,4,4,6,2,1,2,3,6,5,1,6,6,2,3,2,,,,226,
+2019-05-01 21:51:59,2019-05-01 21:56:38,0,100,278,1,2019-05-01 21:56:38,R_1cYDnWaCgdp54wv,anonymous,EN,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,5,1,3,4,3,3,3,1,4,4,3,5,3,3,5,3,3,5,5,3,2,4,3,4,5,3,5,2,5,4,4,5,3,3,4,4,5,3,6,4,4,5,3,3,3,5,5,3,3,5,3,4,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,05,Uz,20,200,
+2019-05-02 21:17:05,2019-05-02 21:19:54,0,100,169,1,2019-05-02 21:19:55,R_1kHqNISqe5FVEer,anonymous,EN,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,5,4,5,5,5,3,4,5,5,5,5,6,5,5,5,5,5,3,5,5,6,5,6,4,5,5,5,5,5,6,3,6,6,6,5,3,4,3,4,3,5,5,5,3,4,5,5,6,5,5,2,2,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,lu,43,251,
+2019-05-03 16:04:57,2019-05-03 16:08:26,0,100,209,1,2019-05-03 16:08:27,R_3EWsCdJFlgfPibV,anonymous,EN,1,1,2,,7,4,3,7,4,3,5,3,7,4,7,6,5,5,7,7,5,4,6,6,6,3,7,5,7,6,4,4,4,5,1,4,6,7,1,3,4,1,3,3,6,5,5,3,1,3,5,7,5,5,2,1,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,22,DZ,82,240,
+2019-05-04 02:20:55,2019-05-04 02:26:24,0,100,329,1,2019-05-04 02:26:24,R_2UhojHw1ilQeHWx,anonymous,EN,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,1,3,1,5,1,2,1,5,1,5,4,5,1,1,1,1,1,4,1,3,4,5,1,5,2,3,5,5,3,1,1,4,3,2,4,2,5,3,7,5,1,1,1,3,1,1,4,3,1,5,4,4,4,24,BS,09,153,
+2019-05-04 15:25:43,2019-05-04 15:29:02,0,100,198,1,2019-05-04 15:29:02,R_AczEEjVstNrfvzj,anonymous,EN,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,6,5,7,6,4,4,6,4,5,6,4,5,4,6,6,4,5,4,5,5,6,4,5,6,5,6,4,3,4,7,4,3,5,5,3,2,4,3,4,5,4,6,5,5,3,5,5,5,5,6,4,4,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30,NB,07,255,
+2019-05-04 20:20:14,2019-05-04 20:22:56,0,100,162,1,2019-05-04 20:22:56,R_8dDDkpcgXSYN0K5,anonymous,EN,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,1,1,1,3,4,3,4,2,5,2,2,5,4,4,1,5,4,4,3,3,5,4,3,1,1,5,6,5,3,3,2,5,1,3,7,7,5,4,4,2,3,4,3,1,4,1,3,1,3,4,2,4,1,24,ja,66,174,
+2019-05-04 20:39:11,2019-05-04 20:43:37,0,100,265,1,2019-05-04 20:43:38,R_yWT5Gy85XXyYBnr,anonymous,EN,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,4,1,2,4,5,4,4,4,3,4,3,5,4,4,3,4,4,1,3,3,3,4,3,4,4,1,6,5,6,4,4,2,5,3,3,5,7,5,5,5,3,1,5,4,5,4,1,2,1,5,5,5,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,02,LB,28,200,
+2019-05-07 16:43:17,2019-05-07 16:47:48,0,100,271,1,2019-05-07 16:47:48,R_28P9IHSp1dAMGwc,anonymous,EN,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,7,6,1,1,4,1,3,6,4,3,3,4,7,4,7,7,1,5,5,1,3,7,1,4,1,4,7,5,4,7,5,4,4,1,7,4,4,5,3,7,5,4,4,7,4,4,7,1,7,5,7,5,1,4,LS,02,229,
+2019-05-07 20:03:15,2019-05-07 20:05:26,0,100,131,1,2019-05-07 20:05:26,R_249656uw5dxSAX6,anonymous,EN,1,1,1,,7,2,3,1,6,2,5,6,7,7,7,6,7,7,7,7,7,2,6,7,7,7,7,4,7,7,4,4,4,7,4,4,7,7,1,4,4,1,4,4,6,7,6,5,4,7,5,7,7,6,4,1,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,04,UL,69,279,
+2019-05-09 08:48:38,2019-05-09 08:52:06,0,100,208,1,2019-05-09 08:52:06,R_3mjC4w8mZfIAZDf,anonymous,EN,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,4,4,6,4,4,4,5,3,5,7,5,5,6,4,6,5,4,5,5,6,5,5,6,4,6,6,4,5,4,6,2,5,5,6,2,4,4,3,4,4,5,7,5,4,3,4,5,6,4,5,3,2,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12,AG,80,249,
+2019-05-12 02:10:50,2019-05-12 02:17:08,0,100,377,1,2019-05-12 02:17:09,R_2aFtqaxV89tDd52,anonymous,EN,1,1,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,6,6,5,5,5,5,5,4,5,4,5,5,5,5,6,4,6,5,6,5,6,6,4,4,5,4,5,4,5,5,5,5,5,5,5,5,6,5,5,5,5,6,5,5,5,4,5,5,4,4,6,5,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10,jg,86,271,
+2019-05-05 19:24:52,2019-05-05 19:25:08,0,80,16,0,2019-05-12 19:25:18,R_bPZevHHuh6ouhcB,anonymous,EN,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2019-05-13 14:33:10,2019-05-13 14:35:08,0,100,118,1,2019-05-13 14:35:09,R_3hm6uNJFbA6HGyr,anonymous,EN,1,2,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,4,4,3,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,3,4,4,4,4,3,4,4,4,4,4,4,4,3,3,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,5,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,22,GJ,41,212,
+2019-05-13 20:49:46,2019-05-13 20:52:43,0,100,176,1,2019-05-13 20:52:43,R_3FJaITEEZY4BERD,anonymous,EN,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,3,3,3,4,5,4,4,4,3,3,4,4,4,3,3,4,4,4,5,4,3,4,3,5,4,5,5,5,5,3,4,5,3,3,3,5,5,3,4,3,3,5,4,3,4,4,5,4,3,5,4,4,3,02,TJ,58,209,
+2019-05-14 12:01:47,2019-05-14 12:04:30,0,100,162,1,2019-05-14 12:04:31,R_2DP1vRW8e771fP8,anonymous,EN,1,1,1,,7,3,4,7,4,3,7,4,7,7,7,7,7,7,7,7,7,1,7,7,7,7,7,7,7,7,7,5,4,7,2,7,7,7,1,1,4,1,4,4,7,7,7,4,4,5,7,7,7,7,1,1,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,16,DS,43,288,
+2019-05-14 12:00:44,2019-05-14 12:07:08,0,100,384,1,2019-05-14 12:07:09,R_38yWAlASbeInPTX,anonymous,EN,1,1,1,,3,4,4,7,4,4,4,5,5,5,4,6,5,5,4,4,4,3,4,6,5,5,4,4,6,5,2,5,4,5,5,5,4,7,5,4,3,5,5,6,6,3,2,4,5,5,4,5,5,7,3,3,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,09,BU,43,239,
+2019-05-14 13:24:22,2019-05-14 13:27:12,0,100,170,1,2019-05-14 13:27:13,R_2w46dsynGfZtchv,anonymous,EN,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,2,2,3,5,5,1,3,2,2,3,3,2,3,3,3,3,2,6,5,3,2,5,2,2,2,2,6,6,6,3,3,3,2,3,3,5,6,5,2,3,2,3,3,2,4,3,5,2,3,5,5,5,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,01,BS,00,179,
+2019-05-14 14:17:28,2019-05-14 14:21:38,0,100,249,1,2019-05-14 14:21:38,R_3oz6Vj00GCc8SoG,anonymous,EN,1,1,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,3,2,6,5,5,2,3,2,5,5,5,5,5,3,3,5,3,6,5,5,6,5,5,5,5,5,6,5,5,5,2,6,3,3,3,5,6,5,3,5,5,2,5,2,5,5,5,6,3,5,2,6,3,29,HL,52,235,
+2019-05-14 19:34:10,2019-05-14 19:37:15,0,100,184,1,2019-05-14 19:37:15,R_1YXX8bbOleDfGSJ,anonymous,EN,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,2,4,6,6,5,2,7,2,6,6,5,5,5,6,7,6,6,5,6,6,6,6,6,5,7,6,6,5,3,5,3,5,6,6,1,1,6,2,5,5,7,3,6,3,3,3,6,6,4,6,2,1,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,31,HS,82,259,
+2019-05-15 13:02:44,2019-05-15 13:05:41,0,100,177,1,2019-05-15 13:05:42,R_2X4B1GeGVEUqNf6,anonymous,EN,1,1,1,,7,3,5,7,7,1,7,7,4,7,7,7,7,7,7,7,7,1,7,7,7,7,7,7,7,7,4,7,3,7,1,7,7,7,1,1,1,1,4,1,7,3,7,2,1,5,4,7,5,7,1,1,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,17,bz,05,270,
+2019-05-15 18:06:41,2019-05-15 18:11:32,0,90,291,0,2019-05-16 09:39:05,R_3nDFexJ8aikyte3,anonymous,EN,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,1,2,2,4,2,1,4,1,3,3,6,2,2,1,2,2,3,6,2,2,2,6,1,2,2,3,6,4,6,2,1,6,2,2,6,6,5,5,2,5,3,1,2,1,2,1,6,2,1,4,6,6,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,163,
+2019-05-13 20:32:10,2019-05-13 20:35:27,0,90,196,0,2019-05-16 09:39:51,R_C7kiW5eiF0HXDDX,anonymous,EN,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,3,1,7,6,5,3,3,3,6,7,6,5,7,6,6,6,7,5,6,5,6,6,6,5,5,6,3,5,4,6,3,5,5,6,2,2,5,2,3,3,7,5,6,3,4,3,5,7,5,7,2,2,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,256,
+2019-05-20 11:46:51,2019-05-20 11:49:49,0,100,177,1,2019-05-20 11:49:50,R_3Ep25d4brTMl2g6,anonymous,EN,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,3,1,5,4,4,1,5,1,1,5,6,4,3,4,6,5,5,1,5,6,5,1,6,6,5,4,5,1,1,5,1,5,6,5,2,2,4,2,3,1,5,4,5,1,1,4,5,6,5,4,1,1,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,02,NW,10,195,
+2019-05-20 17:43:24,2019-05-20 17:48:41,0,100,316,1,2019-05-20 17:48:41,R_cHoZI09zwZed105,anonymous,EN,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,4,4,2,2,5,2,3,3,4,3,3,4,4,3,4,3,5,4,4,3,3,4,2,3,3,4,4,5,4,3,4,3,3,2,5,4,4,5,4,4,4,3,4,2,5,5,5,3,4,3,4,5,3,23,pb,49,195,
+2019-05-21 16:00:55,2019-05-21 16:03:41,0,100,165,1,2019-05-21 16:03:41,R_r8xC0fywVarXRQt,anonymous,EN,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,2,3,6,5,3,2,6,2,6,6,6,5,5,6,6,6,6,3,6,6,6,6,6,3,6,5,3,3,3,6,3,6,6,6,3,2,3,3,3,2,5,3,5,3,5,2,2,6,6,6,6,3,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,09,gd,59,241,
+2019-05-22 19:00:54,2019-05-22 19:05:32,0,90,278,0,2019-05-23 09:18:46,R_2woUXjVioRDFGH4,anonymous,EN,1,2,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,5,3,2,4,4,4,4,5,3,4,4,4,4,4,4,4,4,4,4,4,4,4,4,5,2,4,4,4,4,3,5,4,2,3,4,4,5,3,4,4,4,1,4,4,5,4,4,2,3,5,4,3,2,,,,203,
